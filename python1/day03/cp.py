@@ -95,7 +95,8 @@ import sys
 #     print(sys.argv[2])
 # foo()
 
-def pstar(num=5):
-    print("*"*num)
-pstar()
-pstar(30)
+# # fun6: mo ren can shu zhi
+# def pstar(num=5):
+#     print("*"*num)
+# pstar()
+# pstar(30)
