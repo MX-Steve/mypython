@@ -1,11 +1,32 @@
 #!/usr/bin/env python3
 #-*- coding:utf-8 -*-
-uname=input("your name:")
-upwd=input("your pwd:")
-if uname == "lisi" and upwd == "123":
-    print("welcome")
-else:
-    print("error")
+
+
+# print(int('99'))
+# print(int('99b')) # error:
+
+# score=49
+# if score >=90:
+#     print("very good!")
+# elif score >=80:
+#     print("good!")
+# elif score >=70:
+#     print("better")
+# else:
+#     print("study hard")
+
+# if 4>3:
+#     print("ok")
+# else:
+#     print("err")
+
+# uname=input("your name:")
+# upwd=input("your pwd:")
+# if uname == "lisi" and upwd == "123":
+#     print("welcome")
+# else:
+#     print("error")
+
 # print(0 and 1)
 # print(0 or 1)
 # print(not 1)
