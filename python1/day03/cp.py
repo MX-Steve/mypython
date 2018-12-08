@@ -31,9 +31,30 @@
 #             if not data:
 #                 break
 
-#function
-# type: def function(): 'xxx' fun_suit
-def foo():
-    print("hello world")
+# #function
+# # type: def function(): 'xxx' fun_suit
+# def foo():
+#     print("hello world")
+#
+# foo()
 
-foo()
+# #fun2: han shu nei de bian liang , diao yong zhi hou jiu hui bei shan chu!
+# #mei you fan hui zhi , fan hui none
+# def foo():
+#     res=3+4
+#     return res
+# print(foo())
+
+# # #fun3: can shu / chuan can
+# def foo(uname):
+#     print(uname)
+# foo('lisi')
+# uname='zhangsan'
+# foo(uname)
+def fib(num):
+    fibs=[0,1]
+    for i in range(num-2):
+        fibs.append(fibs[-1]+fibs[-2])
+    return fibs
+print(fib(8))
+print(fib(10))
