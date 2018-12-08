@@ -89,9 +89,38 @@ fibs=[0,1]
 # f.write('nihao')
 # f.close()
 
-data=['new line\n','2nd line\n','3rd line']
-f=open('hello.txt','w')
-f.writelines(data)
-f.close()
+# data=['new line\n','2nd line\n','3rd line']
+# f=open('hello.txt','w')
+# f.writelines(data)
+# f.close()
+
+# with open('hello.txt') as obj:
+#     data=obj.readline()
+#     print(data)
+#
+# with open('hello.txt') as obj:
+#     while True:
+#         data=obj.readline()
+#         print(data,end='')
+#         if data =='':
+#             break
+
+# with open('/tmp/passwd') as f:
+#     print(f.tell())
+#     f.read(100)
+#     print(f.tell())
+
+# with open('/tmp/passwd') as f:
+#     print(f.tell())
+#     f.seek(0,2)
+#     print(f.tell())
+
+# with open('/tmp/passwd') as f:
+#     print(f.readline())
+#     f.seek(0,0)
+#     print(f.readline())
+# #seek: 0:start,1:now,2:end
+# +: duxiemoshi
+# b: erjinzhi
 
 print()
