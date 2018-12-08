@@ -51,10 +51,51 @@
 # foo('lisi')
 # uname='zhangsan'
 # foo(uname)
-def fib(num):
-    fibs=[0,1]
-    for i in range(num-2):
-        fibs.append(fibs[-1]+fibs[-2])
-    return fibs
-print(fib(8))
-print(fib(10))
+# def fib(num):
+#     fibs=[0,1]
+#     for i in range(num-2):
+#         fibs.append(fibs[-1]+fibs[-2])
+#     return fibs
+# print(fib(8))
+# print(fib(10))
+# def jiji(num):
+#     for i in range(1,num+1):
+#         for j in range(1,i+1):
+#             print("%dX%d=%d"%(j,i,j*i),end="  ")
+#         print()
+# jiji(8)
+# jiji(16)
+
+# # #fun4
+# def copy_file(src,dst):
+#     with open(src,'rb') as src_obj:
+#         while True:
+#             data=src_obj.read(4096)
+#             if not data:
+#                 break
+#             with open(dst,'wb') as dst_obj:
+#                 dst_obj.write(data)
+# copy_file('/etc/passwd','/tmp/passwd')
+
+#fun5
+import sys
+# def copy_file():
+#     with open(sys.argv[1],'rb') as src_obj:
+#         while True:
+#             data=src_obj.read(4096)
+#             if not data:
+#                 break
+#             with open(sys.argv[2],'wb') as dst_obj:
+#                 dst_obj.write(data)
+# copy_file()
+
+# def foo():
+#     print(sys.argv)
+#     print(sys.argv[1])
+#     print(sys.argv[2])
+# foo()
+
+def pstar(num=5):
+    print("*"*num)
+pstar()
+pstar(30)
