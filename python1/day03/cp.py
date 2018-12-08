@@ -22,11 +22,18 @@
 # src_obj.close()
 # dst_obj.close()
 
-# third
-with open("/bin/ls",'rb') as src:
-    while True:
-        data=src.read(4096)
-        with open('/tmp/ls','wb') as dst:
-            dst.write(data)
-            if not data:
-                break
+# # third
+# with open("/bin/ls",'rb') as src:
+#     while True:
+#         data=src.read(4096)
+#         with open('/tmp/ls','wb') as dst:
+#             dst.write(data)
+#             if not data:
+#                 break
+
+#function
+# type: def function(): 'xxx' fun_suit
+def foo():
+    print("hello world")
+
+foo()
