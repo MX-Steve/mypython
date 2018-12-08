@@ -84,9 +84,14 @@ fibs=[0,1]
 
 # f.close()
 # w
-f = open('hello.txt','w')
-f.write('hello world')
-f.write('nihao')
+# f = open('hello.txt','w')
+# f.write('hello world')
+# f.write('nihao')
+# f.close()
+
+data=['new line\n','2nd line\n','3rd line']
+f=open('hello.txt','w')
+f.writelines(data)
 f.close()
 
 print()
