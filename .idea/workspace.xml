@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/python1/day03/cp.py" afterPath="$PROJECT_DIR$/python1/day03/cp.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/python1/day04/myshell.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,29 +16,19 @@
     <SUITE FILE_PATH="coverage/mypython$p1__1_.coverage" NAME="p1 (1) Coverage Results" MODIFIED="1544168246628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day02" />
     <SUITE FILE_PATH="coverage/mypython$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1544097370125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day01" />
     <SUITE FILE_PATH="coverage/mypython$day03.coverage" NAME="day03 Coverage Results" MODIFIED="1544239571741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
-    <SUITE FILE_PATH="coverage/mypython$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544253456093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
+    <SUITE FILE_PATH="coverage/mypython$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544253645594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
+    <SUITE FILE_PATH="coverage/mypython$myshell.coverage" NAME="myshell Coverage Results" MODIFIED="1544257916600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1544175132032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day02" />
     <SUITE FILE_PATH="coverage/mypython$zuo_lian.coverage" NAME="zuo_lian Coverage Results" MODIFIED="1544229099498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
+    <SUITE FILE_PATH="coverage/mypython$testmodule.coverage" NAME="testmodule Coverage Results" MODIFIED="1544257784291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="day03.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python1/day03/day03.py">
+      <file leaf-file-name="myshell.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python1/day04/myshell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-              <folding>
-                <marker date="1544239842917" expanded="true" signature="1687:1761" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cp.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python1/day03/cp.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="90" column="6" lean-forward="false" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+            <state relative-caret-position="85">
+              <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -58,6 +49,9 @@
         <option value="$PROJECT_DIR$/python1/day03/hello.py" />
         <option value="$PROJECT_DIR$/python1/day03/day03.py" />
         <option value="$PROJECT_DIR$/python1/day03/cp.py" />
+        <option value="$PROJECT_DIR$/python1/day03/myimport.py" />
+        <option value="$PROJECT_DIR$/python1/day03/testmodule.py" />
+        <option value="$PROJECT_DIR$/python1/day04/myshell.py" />
       </list>
     </option>
   </component>
@@ -102,12 +96,6 @@
               <item name="mypython" type="462c0819:PsiDirectoryNode" />
               <item name="python1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="python1" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -130,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cp">
+  <component name="RunManager" selected="Python.myshell">
     <configuration name="cp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,39 +157,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myshell" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/day02/p1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/day04/myshell.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testmodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python1/day03" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/day02/p2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python1/day03/testmodule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +215,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.p1 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.p2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.zuo_lian" />
-      <item index="3" class="java.lang.String" itemvalue="Python.day03" />
-      <item index="4" class="java.lang.String" itemvalue="Python.cp" />
+      <item index="0" class="java.lang.String" itemvalue="Python.zuo_lian" />
+      <item index="1" class="java.lang.String" itemvalue="Python.day03" />
+      <item index="2" class="java.lang.String" itemvalue="Python.cp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.testmodule" />
+      <item index="4" class="java.lang.String" itemvalue="Python.myshell" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cp" />
-        <item index="1" class="java.lang.String" itemvalue="Python.day03" />
-        <item index="2" class="java.lang.String" itemvalue="Python.zuo_lian" />
-        <item index="3" class="java.lang.String" itemvalue="Python.p2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.p1 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.myshell" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testmodule" />
+        <item index="2" class="java.lang.String" itemvalue="Python.cp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.day03" />
+        <item index="4" class="java.lang.String" itemvalue="Python.zuo_lian" />
       </list>
     </recent_temporary>
   </component>
@@ -378,8 +366,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python1/day03/cp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="90" column="6" lean-forward="false" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
+        <state relative-caret-position="256">
+          <caret line="97" column="4" lean-forward="true" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python1/day03/myimport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python1/day03/testmodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python1/day04/myshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
