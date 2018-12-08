@@ -68,6 +68,25 @@ fibs=[0,1]
 # fobj=open('/root/a.cnf')
 # print(fobj)
 
-fobj=open('hello.py','w')
+# fobj=open('hello.py','r')
+# data=fobj.read()
+# print(data)
+# data=fobj.read()
+# print(data)
+# fobj.close()
+
+# f=open('/tmp/passwd')
+# f.read(5)
+# data=f.readline()
+# print(data)
+# data=f.readline()
+# data=f.readlines()
+
+# f.close()
+# w
+f = open('hello.txt','w')
+f.write('hello world')
+f.write('nihao')
+f.close()
 
 print()
