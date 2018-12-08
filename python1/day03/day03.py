@@ -19,7 +19,7 @@
 #     else:
 #         print(i)
 
-fibs=[0,1]
+# fibs=[0,1]
 # fibs.append(1)
 # fibs.append(2)
 # fibs.append(3)
@@ -122,5 +122,12 @@ fibs=[0,1]
 # #seek: 0:start,1:now,2:end
 # +: duxiemoshi
 # b: erjinzhi
+
+# with open("/tmp/passwd") as f:
+#     for line in f:
+#         print(line,end='')
+
+
+
 
 print()
