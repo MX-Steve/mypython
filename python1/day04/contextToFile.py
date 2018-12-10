@@ -26,8 +26,9 @@ def get_fname():
 def wfile(content,file):
     "content to file"
     with open(file,'w') as fobj:
-        for line in content:
-            fobj.write(line)
+        # for line in content:
+        #     fobj.write(line)
+        fobj.writelines(content)
 
 if __name__ == '__main__':
     content=get_content()
