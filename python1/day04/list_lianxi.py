@@ -9,7 +9,7 @@ def ladd():
             print('quit')
             break
         alist.append(ch)
-        
+
 
 
 def lremove():
