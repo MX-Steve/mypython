@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/python1/day04/myshell.py" afterPath="$PROJECT_DIR$/python1/day04/myshell.py" />
       <change beforePath="$PROJECT_DIR$/python1/passwd" afterPath="" />
     </list>
@@ -18,7 +17,7 @@
     <SUITE FILE_PATH="coverage/mypython$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1544097370125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day01" />
     <SUITE FILE_PATH="coverage/mypython$day03.coverage" NAME="day03 Coverage Results" MODIFIED="1544239571741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
     <SUITE FILE_PATH="coverage/mypython$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544253645594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
-    <SUITE FILE_PATH="coverage/mypython$myshell.coverage" NAME="myshell Coverage Results" MODIFIED="1544402613161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
+    <SUITE FILE_PATH="coverage/mypython$myshell.coverage" NAME="myshell Coverage Results" MODIFIED="1544403173235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1544175132032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day02" />
     <SUITE FILE_PATH="coverage/mypython$zuo_lian.coverage" NAME="zuo_lian Coverage Results" MODIFIED="1544229099498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
     <SUITE FILE_PATH="coverage/mypython$testmodule.coverage" NAME="testmodule Coverage Results" MODIFIED="1544257784291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="myshell.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python1/day04/myshell.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="392">
+              <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -62,8 +61,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="4" />
     <option name="y" value="106" />
     <option name="width" value="1399" />
     <option name="height" value="868" />
@@ -94,6 +93,12 @@
               <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
               <item name="mypython" type="462c0819:PsiDirectoryNode" />
               <item name="python1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mypython" type="462c0819:PsiDirectoryNode" />
+              <item name="python1" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,7 +254,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="106" width="1399" height="868" extended-state="0" />
+    <frame x="4" y="106" width="1399" height="868" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -380,8 +385,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python1/day04/myshell.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="392">
+          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding />
         </state>
       </provider>
