@@ -23,5 +23,5 @@ import shutil
 # shutil.copymode("/etc/shadow",'/tmp/mima')
 ## stat /etc/passwd fuzhiyuanshuju
 # shutil.copystat('/etc/shadow','/tmp/mima')
-#chown
-shutil.chown('/tmp/mima',user='lisi',group='ntp')
+#chown : shutil.chown(file,user='',group='')
+# shutil.chown('/tmp/mima',user='lisi',group='ntp')
