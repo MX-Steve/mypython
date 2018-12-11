@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import gamewin
+import kuang
 import random
 
 def lianxi():
@@ -16,7 +16,7 @@ input 0: quit>
             print("bye,see you again")
             exit(1)
         elif yours == answer:
-            gamewin.win()
+            kuang.win()
         else:
             print("your answer is incorrect!")
 
