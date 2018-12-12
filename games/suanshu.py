@@ -47,10 +47,20 @@ def menu():
 0 : 离开
 1 : 挑战
 come on : >"""
-    yours=input(prompt)
-    if yours == "0":
-        jindutiao.jdt()
-    else:
-        plus()
+    while True:
+      try:
+          yours=input(prompt) 
+      except ( EOFError,ValueError):
+          print("\033[31m别瞎输入，正常点！\033[0m")
+          continue
+      except (ZeroDivisionError,KeyboardInterrupt):
+          print("\033[31m不做个题，还想走？\033[0m")
+          continue
+      else:
+          if yours == "0":
+             jindutiao.jdt()
+          else:
+             plus()
+
 if __name__ == '__main__':
     menu()
