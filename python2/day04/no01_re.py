@@ -33,3 +33,4 @@ patt=re.compile('f..')
 m=patt.search('seafood')
 print(m.group())
 print(patt.findall('seafood is feed'))
+
