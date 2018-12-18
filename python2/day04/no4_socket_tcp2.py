@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# no1
 import socket
 
 host=''
