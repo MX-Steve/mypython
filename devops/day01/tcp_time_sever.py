@@ -29,13 +29,20 @@ class TcpTimeServ:
             except KeyboardInterrupt:
                 print()
                 break
+
             pid=os.fork()
             if pid:
                 cli_sock.close()
+                while True:
+                    result=os.waitpid(-1,1)
+                    print(result)
+                    if result[0] == 0:
+                        break
             else:
                 self.chat(cli_sock,cli_addr)
                 cli_sock.close()
                 exit()
+
         self.serv.close()
 
 if __name__ == '__main__':
