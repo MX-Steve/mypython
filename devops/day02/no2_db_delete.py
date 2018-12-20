@@ -4,7 +4,7 @@ session = Session()
 
 q1=session.query(Departments).filter(Departments.dep_name=="caiwu")
 dep=q1.one()
-print(dep)
+# print(dep)
 session.delete(dep)
 session.commit()
 session.close()
