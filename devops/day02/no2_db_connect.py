@@ -1,12 +1,16 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import Column, Integer, String , Date, ForeignKey
+from sqlalchemy.orm import sessionmaker
+
 
 engine=create_engine(
     'mysql+pymysql://root:123456@localhost/tedu?charset=utf8',
     encoding='utf8',
     echo=True
 )
+Session = sessionmaker(bind=engine)
+
 Base=declarative_base() #ORM
 
 class Departments(Base):
@@ -38,6 +42,9 @@ class Salary(Base):
     salary_date = Column(Date)
     basic = Column(Integer)
     awards = Column(Integer)
+
+    def __str__(self):
+        return "<salary:%s>" % self.basic
 
 if __name__ == '__main__':
     Base.metadata.create_all(engine)
