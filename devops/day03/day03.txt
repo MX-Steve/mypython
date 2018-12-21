@@ -1,0 +1,15 @@
+http://www.baidu.com/robots.txt
+from urllib import request
+html=request.urlopen('http://www.163.com/')
+#html.readline()
+#html.read(20)
+#html.readlines()
+
+with open('/tmp/163.html','wb') as fobj:
+    while True:
+        data = html.read(1024)
+        if not data:
+            break
+        fobj.write(data)
+
+eog /a.jpg
