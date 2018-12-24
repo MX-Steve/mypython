@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/devops/day03/day03.txt" afterPath="$PROJECT_DIR$/devops/day03/day03.txt" />
+      <change beforePath="$PROJECT_DIR$/devops/day03/no1_get_163img.py" afterPath="$PROJECT_DIR$/devops/day03/no1_get_163img.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,138 +15,189 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mypython$contextToFile.coverage" NAME="contextToFile Coverage Results" MODIFIED="1544409628942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no1_account.coverage" NAME="no1_account Coverage Results" MODIFIED="1544616209601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$post.coverage" NAME="post Coverage Results" MODIFIED="1544537105441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$no7_oop_jicheng.coverage" NAME="no7_oop_jicheng Coverage Results" MODIFIED="1544776291157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no7_digui.coverage" NAME="no7_digui Coverage Results" MODIFIED="1544688090528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$no1_random.coverage" NAME="no1_random Coverage Results" MODIFIED="1544749589496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$pre01.coverage" NAME="pre01 Coverage Results" MODIFIED="1544834853090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$game01.coverage" NAME="game01 Coverage Results" MODIFIED="1544444552405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$no4_socket.coverage" NAME="no4_socket Coverage Results" MODIFIED="1544845025630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no2_inetmail.coverage" NAME="no2_inetmail Coverage Results" MODIFIED="1545461918100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no3_ping.coverage" NAME="no3_ping Coverage Results" MODIFIED="1545188642865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no2_db_select.coverage" NAME="no2_db_select Coverage Results" MODIFIED="1545304188419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no4_zabbix.coverage" NAME="no4_zabbix Coverage Results" MODIFIED="1545633904944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
+    <SUITE FILE_PATH="coverage/mypython$list_tuple.coverage" NAME="list_tuple Coverage Results" MODIFIED="1544432309942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no3_jiajian.coverage" NAME="no3_jiajian Coverage Results" MODIFIED="1544620330684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$mytime.coverage" NAME="mytime Coverage Results" MODIFIED="1544516915623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no1_url.coverage" NAME="no1_url Coverage Results" MODIFIED="1545355689835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no1_handle_select.coverage" NAME="no1_handle_select Coverage Results" MODIFIED="1545273482418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no2_json.coverage" NAME="no2_json Coverage Results" MODIFIED="1545464832888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
+    <SUITE FILE_PATH="coverage/mypython$kuang.coverage" NAME="kuang Coverage Results" MODIFIED="1544531213059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
+    <SUITE FILE_PATH="coverage/mypython$no5_killerror.coverage" NAME="no5_killerror Coverage Results" MODIFIED="1544519249048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$mystr.coverage" NAME="mystr Coverage Results" MODIFIED="1544415204993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
+    <SUITE FILE_PATH="coverage/mypython$lian01.coverage" NAME="lian01 Coverage Results" MODIFIED="1545017836851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no7_pickle.coverage" NAME="no7_pickle Coverage Results" MODIFIED="1544528127464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$pre.coverage" NAME="pre Coverage Results" MODIFIED="1544499792770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no5_paramiko.coverage" NAME="no5_paramiko Coverage Results" MODIFIED="1545439866491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no6_vars.coverage" NAME="no6_vars Coverage Results" MODIFIED="1544682096061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no01_re.coverage" NAME="no01_re Coverage Results" MODIFIED="1545008462430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no2_fun1.coverage" NAME="no2_fun1 Coverage Results" MODIFIED="1544618844984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$xulie.coverage" NAME="xulie Coverage Results" MODIFIED="1544410712158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no1_list_lianxi.coverage" NAME="no1_list_lianxi Coverage Results" MODIFIED="1544509106511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no2_db_delete.coverage" NAME="no2_db_delete Coverage Results" MODIFIED="1545305416075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no4_set.coverage" NAME="no4_set Coverage Results" MODIFIED="1544514533236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no1_handle_mysql.coverage" NAME="no1_handle_mysql Coverage Results" MODIFIED="1545274784714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$timeit2.coverage" NAME="timeit2 Coverage Results" MODIFIED="1545191657148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$jindutiao.coverage" NAME="jindutiao Coverage Results" MODIFIED="1544533965330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
+    <SUITE FILE_PATH="coverage/mypython$no9_books.coverage" NAME="no9_books Coverage Results" MODIFIED="1544777027334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no4_socket_tcp3.coverage" NAME="no4_socket_tcp3 Coverage Results" MODIFIED="1544859854099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no2_zb.coverage" NAME="no2_zb Coverage Results" MODIFIED="1545141272403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no4_url.coverage" NAME="no4_url Coverage Results" MODIFIED="1545438190724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
+    <SUITE FILE_PATH="coverage/mypython$testmodule.coverage" NAME="testmodule Coverage Results" MODIFIED="1544257784291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no4_lambda.coverage" NAME="no4_lambda Coverage Results" MODIFIED="1544664081411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no2_db_connect.coverage" NAME="no2_db_connect Coverage Results" MODIFIED="1545281162840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no4_web_err.coverage" NAME="no4_web_err Coverage Results" MODIFIED="1545438501825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
+    <SUITE FILE_PATH="coverage/mypython$mystr1.coverage" NAME="mystr1 Coverage Results" MODIFIED="1544428036959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no8_paixu.coverage" NAME="no8_paixu Coverage Results" MODIFIED="1544690435856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no1_myemail.coverage" NAME="no1_myemail Coverage Results" MODIFIED="1545449720537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
+    <SUITE FILE_PATH="coverage/mypython$zuo_lian.coverage" NAME="zuo_lian Coverage Results" MODIFIED="1544229099498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no2_db_update.coverage" NAME="no2_db_update Coverage Results" MODIFIED="1545304831800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no9_gen.coverage" NAME="no9_gen Coverage Results" MODIFIED="1544692622186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no10_zhuangshiqi.coverage" NAME="no10_zhuangshiqi Coverage Results" MODIFIED="1544748342072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no6_os.coverage" NAME="no6_os Coverage Results" MODIFIED="1544528980895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$tcp_time_sever.coverage" NAME="tcp_time_sever Coverage Results" MODIFIED="1545178586738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$mygui.coverage" NAME="mygui Coverage Results" MODIFIED="1544690515510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no3_jiajian1.coverage" NAME="no3_jiajian1 Coverage Results" MODIFIED="1544621116038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no3_ping2.coverage" NAME="no3_ping2 Coverage Results" MODIFIED="1545189996550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no_fork_ping.coverage" NAME="no_fork_ping Coverage Results" MODIFIED="1545032040046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no1_account.coverage" NAME="no1_account Coverage Results" MODIFIED="1544616209601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no3_bianma.coverage" NAME="no3_bianma Coverage Results" MODIFIED="1545367348363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
+    <SUITE FILE_PATH="coverage/mypython$no3_request.coverage" NAME="no3_request Coverage Results" MODIFIED="1545465669418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no7_digui.coverage" NAME="no7_digui Coverage Results" MODIFIED="1544688090528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/mypython$no2_browser.coverage" NAME="no2_browser Coverage Results" MODIFIED="1545366425551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
     <SUITE FILE_PATH="coverage/mypython$no4_socket_tcp2.coverage" NAME="no4_socket_tcp2 Coverage Results" MODIFIED="1544859327070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$no5_time_tcp.coverage" NAME="no5_time_tcp Coverage Results" MODIFIED="1544865833796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$kuo_s.coverage" NAME="kuo_s Coverage Results" MODIFIED="1545019300410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$no6_udp_s.coverage" NAME="no6_udp_s Coverage Results" MODIFIED="1544880499661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$myvars.coverage" NAME="myvars Coverage Results" MODIFIED="1544405553170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$p1.coverage" NAME="p1 Coverage Results" MODIFIED="1544097370125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day01" />
-    <SUITE FILE_PATH="coverage/mypython$no3_ping.coverage" NAME="no3_ping Coverage Results" MODIFIED="1545188642865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
-    <SUITE FILE_PATH="coverage/mypython$no2_db_select.coverage" NAME="no2_db_select Coverage Results" MODIFIED="1545304188419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
-    <SUITE FILE_PATH="coverage/mypython$list_tuple.coverage" NAME="list_tuple Coverage Results" MODIFIED="1544432309942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no3_jiajian.coverage" NAME="no3_jiajian Coverage Results" MODIFIED="1544620330684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$no5_time_tcp1.coverage" NAME="no5_time_tcp1 Coverage Results" MODIFIED="1544866229862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
-    <SUITE FILE_PATH="coverage/mypython$mytime.coverage" NAME="mytime Coverage Results" MODIFIED="1544516915623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
-    <SUITE FILE_PATH="coverage/mypython$no1_url.coverage" NAME="no1_url Coverage Results" MODIFIED="1545355689835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no1_handle_select.coverage" NAME="no1_handle_select Coverage Results" MODIFIED="1545273482418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$p1__1_.coverage" NAME="p1 (1) Coverage Results" MODIFIED="1544168246628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day02" />
     <SUITE FILE_PATH="coverage/mypython$day03.coverage" NAME="day03 Coverage Results" MODIFIED="1544239571741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
     <SUITE FILE_PATH="coverage/mypython$wallet.coverage" NAME="wallet Coverage Results" MODIFIED="1544617796965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
     <SUITE FILE_PATH="coverage/mypython$no5_myerror.coverage" NAME="no5_myerror Coverage Results" MODIFIED="1544520453261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
-    <SUITE FILE_PATH="coverage/mypython$kuang.coverage" NAME="kuang Coverage Results" MODIFIED="1544531213059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
-    <SUITE FILE_PATH="coverage/mypython$no5_killerror.coverage" NAME="no5_killerror Coverage Results" MODIFIED="1544519249048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
-    <SUITE FILE_PATH="coverage/mypython$mystr.coverage" NAME="mystr Coverage Results" MODIFIED="1544415204993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$lian01.coverage" NAME="lian01 Coverage Results" MODIFIED="1545017836851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no7_pickle.coverage" NAME="no7_pickle Coverage Results" MODIFIED="1544528127464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no5_get_zabbix.coverage" NAME="no5_get_zabbix Coverage Results" MODIFIED="1545633907870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
     <SUITE FILE_PATH="coverage/mypython$suanshu.coverage" NAME="suanshu Coverage Results" MODIFIED="1544530162355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
-    <SUITE FILE_PATH="coverage/mypython$pre.coverage" NAME="pre Coverage Results" MODIFIED="1544499792770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$no2_db_adddata.coverage" NAME="no2_db_adddata Coverage Results" MODIFIED="1545303991924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$no10_methods.coverage" NAME="no10_methods Coverage Results" MODIFIED="1544787713159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$p2.coverage" NAME="p2 Coverage Results" MODIFIED="1544175132032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day02" />
     <SUITE FILE_PATH="coverage/mypython$no5_backup.coverage" NAME="no5_backup Coverage Results" MODIFIED="1544770387225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no6_vars.coverage" NAME="no6_vars Coverage Results" MODIFIED="1544682096061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no01_re.coverage" NAME="no01_re Coverage Results" MODIFIED="1545008462430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no2_fun1.coverage" NAME="no2_fun1 Coverage Results" MODIFIED="1544618844984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$xulie.coverage" NAME="xulie Coverage Results" MODIFIED="1544410712158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no1_list_lianxi.coverage" NAME="no1_list_lianxi Coverage Results" MODIFIED="1544509106511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$gamewin.coverage" NAME="gamewin Coverage Results" MODIFIED="1544443812976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$no1_fork01.coverage" NAME="no1_fork01 Coverage Results" MODIFIED="1545027156717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
-    <SUITE FILE_PATH="coverage/mypython$no2_db_delete.coverage" NAME="no2_db_delete Coverage Results" MODIFIED="1545305416075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$myshell.coverage" NAME="myshell Coverage Results" MODIFIED="1544403790076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no4_set.coverage" NAME="no4_set Coverage Results" MODIFIED="1544514533236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$no1_handle_update.coverage" NAME="no1_handle_update Coverage Results" MODIFIED="1545273822180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no1_handle_mysql.coverage" NAME="no1_handle_mysql Coverage Results" MODIFIED="1545274784714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$no3_mym5.coverage" NAME="no3_mym5 Coverage Results" MODIFIED="1544757936738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
-    <SUITE FILE_PATH="coverage/mypython$timeit2.coverage" NAME="timeit2 Coverage Results" MODIFIED="1545191657148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/mypython$no5_paramiko_com.coverage" NAME="no5_paramiko_com Coverage Results" MODIFIED="1545440741419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
     <SUITE FILE_PATH="coverage/mypython$no1_get_163img.coverage" NAME="no1_get_163img Coverage Results" MODIFIED="1545361813948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
-    <SUITE FILE_PATH="coverage/mypython$jindutiao.coverage" NAME="jindutiao Coverage Results" MODIFIED="1544533965330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games" />
-    <SUITE FILE_PATH="coverage/mypython$no9_books.coverage" NAME="no9_books Coverage Results" MODIFIED="1544777027334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$no1_handle_delete.coverage" NAME="no1_handle_delete Coverage Results" MODIFIED="1545273903890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$no9_gen1.coverage" NAME="no9_gen1 Coverage Results" MODIFIED="1544693223739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no4_socket_tcp3.coverage" NAME="no4_socket_tcp3 Coverage Results" MODIFIED="1544859854099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$no3_method.coverage" NAME="no3_method Coverage Results" MODIFIED="1545626067542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
     <SUITE FILE_PATH="coverage/mypython$no6_oop.coverage" NAME="no6_oop Coverage Results" MODIFIED="1544774069315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no2_zb.coverage" NAME="no2_zb Coverage Results" MODIFIED="1545141272403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/mypython$cp.coverage" NAME="cp Coverage Results" MODIFIED="1544253645594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
-    <SUITE FILE_PATH="coverage/mypython$testmodule.coverage" NAME="testmodule Coverage Results" MODIFIED="1544257784291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
     <SUITE FILE_PATH="coverage/mypython$no1_list.coverage" NAME="no1_list Coverage Results" MODIFIED="1544500599994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
-    <SUITE FILE_PATH="coverage/mypython$no4_lambda.coverage" NAME="no4_lambda Coverage Results" MODIFIED="1544664081411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$no6_udp_c.coverage" NAME="no6_udp_c Coverage Results" MODIFIED="1544879580166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no2_db_connect.coverage" NAME="no2_db_connect Coverage Results" MODIFIED="1545281162840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/mypython$no4_socket_tcp4.coverage" NAME="no4_socket_tcp4 Coverage Results" MODIFIED="1545008456962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/mypython$no3_jindutiao.coverage" NAME="no3_jindutiao Coverage Results" MODIFIED="1544512109186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$timeit.coverage" NAME="timeit Coverage Results" MODIFIED="1545181027794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
-    <SUITE FILE_PATH="coverage/mypython$mystr1.coverage" NAME="mystr1 Coverage Results" MODIFIED="1544428036959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no8_paixu.coverage" NAME="no8_paixu Coverage Results" MODIFIED="1544690435856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$no8_oop_myclass.coverage" NAME="no8_oop_myclass Coverage Results" MODIFIED="1544776626468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$ktzInitial.coverage" NAME="ktzInitial Coverage Results" MODIFIED="1545311638333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games/dbs" />
-    <SUITE FILE_PATH="coverage/mypython$zuo_lian.coverage" NAME="zuo_lian Coverage Results" MODIFIED="1544229099498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no2_db_update.coverage" NAME="no2_db_update Coverage Results" MODIFIED="1545304831800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no9_gen.coverage" NAME="no9_gen Coverage Results" MODIFIED="1544692622186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$mystr2.coverage" NAME="mystr2 Coverage Results" MODIFIED="1544431393991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/mypython$no10_zhuangshiqi.coverage" NAME="no10_zhuangshiqi Coverage Results" MODIFIED="1544748342072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/mypython$no4_tar.coverage" NAME="no4_tar Coverage Results" MODIFIED="1544760047350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
-    <SUITE FILE_PATH="coverage/mypython$no6_os.coverage" NAME="no6_os Coverage Results" MODIFIED="1544528980895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$no1_get_data.coverage" NAME="no1_get_data Coverage Results" MODIFIED="1545356209930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
-    <SUITE FILE_PATH="coverage/mypython$tcp_time_sever.coverage" NAME="tcp_time_sever Coverage Results" MODIFIED="1545178586738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
-    <SUITE FILE_PATH="coverage/mypython$mygui.coverage" NAME="mygui Coverage Results" MODIFIED="1544690515510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no3_jiajian1.coverage" NAME="no3_jiajian1 Coverage Results" MODIFIED="1544621116038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no3_ping2.coverage" NAME="no3_ping2 Coverage Results" MODIFIED="1545189996550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/mypython$no2_lianxi.coverage" NAME="no2_lianxi Coverage Results" MODIFIED="1544757170311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$list_lianxi.coverage" NAME="list_lianxi Coverage Results" MODIFIED="1544443603585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$no5_lianxi.coverage" NAME="no5_lianxi Coverage Results" MODIFIED="1544664273047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
-    <SUITE FILE_PATH="coverage/mypython$no_fork_ping.coverage" NAME="no_fork_ping Coverage Results" MODIFIED="1545032040046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="mypython" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="day03.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/devops/day03/day03.txt">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="no1_myemail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no1_myemail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="no1_url.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/devops/day03/no1_url.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="no1_get_data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/devops/day03/no1_get_data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="no1_get_163img.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/devops/day03/no1_get_163img.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no2_inetmail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no2_inetmail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding>
+                <element signature="e#900#937#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no2_json.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no2_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no3_request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no3_request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no4_zabbix.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no4_zabbix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no5_get_zabbix.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no5_get_zabbix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="14" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="no3_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/no3_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,20 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mya.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no3_mym5.py" />
-        <option value="$PROJECT_DIR$/games/mymd5.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no4_tar.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no5_backup.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no6_oop.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no7_oop_jicheng.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no8_oop_myclass.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no9_books.py" />
-        <option value="$PROJECT_DIR$/python2/day03/no10_methods.py" />
-        <option value="$PROJECT_DIR$/python2/day04/pre01.py" />
-        <option value="$PROJECT_DIR$/python2/day04/file.txt" />
-        <option value="$PROJECT_DIR$/python2/day04/no4_socket.py" />
-        <option value="$PROJECT_DIR$/python2/day04/no4_socket_tcp3.py" />
         <option value="$PROJECT_DIR$/python2/day04/no4_socket_tcp4.py" />
         <option value="$PROJECT_DIR$/python2/day04/no5_time_tcp.py" />
         <option value="$PROJECT_DIR$/python2/day04/no5_client_tcp1.py" />
@@ -211,9 +250,23 @@
         <option value="$PROJECT_DIR$/devops/day02/no2_db_delete.py" />
         <option value="$PROJECT_DIR$/games/dbs/ktzInitial.py" />
         <option value="$PROJECT_DIR$/devops/day03/no1_url.py" />
-        <option value="$PROJECT_DIR$/devops/day03/day03.txt" />
         <option value="$PROJECT_DIR$/devops/day03/no1_get_data.py" />
         <option value="$PROJECT_DIR$/devops/day03/no1_get_163img.py" />
+        <option value="$PROJECT_DIR$/devops/day03/no2_browser.py" />
+        <option value="$PROJECT_DIR$/devops/day03/no3_bianma.py" />
+        <option value="$PROJECT_DIR$/devops/day03/no4_url.py" />
+        <option value="$PROJECT_DIR$/devops/day03/no4_web_err.py" />
+        <option value="$PROJECT_DIR$/devops/day03/day03.txt" />
+        <option value="$PROJECT_DIR$/devops/day03/no5_paramiko.py" />
+        <option value="$PROJECT_DIR$/devops/day03/hosts" />
+        <option value="$PROJECT_DIR$/devops/day03/no5_paramiko_com.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no1_myemail.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no2_inetmail.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no2_json.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no3_request.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no3_method.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no4_zabbix.py" />
+        <option value="$PROJECT_DIR$/devops/day04/no5_get_zabbix.py" />
       </list>
     </option>
   </component>
@@ -224,10 +277,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-61" />
-    <option name="y" value="283" />
+    <option name="x" value="11" />
+    <option name="y" value="227" />
     <option name="width" value="1400" />
-    <option name="height" value="783" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -264,7 +317,7 @@
               <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
               <item name="mypython" type="462c0819:PsiDirectoryNode" />
               <item name="devops" type="462c0819:PsiDirectoryNode" />
-              <item name="day03" type="462c0819:PsiDirectoryNode" />
+              <item name="day04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,116 +352,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.no1_get_163img">
-    <configuration name="ktzInitial" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.no5_get_zabbix">
+    <configuration name="no2_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/games/dbs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/games/dbs/ktzInitial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no2_json.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="no1_get_163img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="no3_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day03/no1_get_163img.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no3_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="no1_get_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="no3_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day03/no1_get_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no3_request.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="no1_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="no4_zabbix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day03/no1_url.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no4_zabbix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="no2_db_delete" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="no5_get_zabbix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="mypython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day02/no2_db_delete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no5_get_zabbix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.no2_db_delete" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ktzInitial" />
-      <item index="2" class="java.lang.String" itemvalue="Python.no1_url" />
-      <item index="3" class="java.lang.String" itemvalue="Python.no1_get_data" />
-      <item index="4" class="java.lang.String" itemvalue="Python.no1_get_163img" />
+      <item index="0" class="java.lang.String" itemvalue="Python.no2_json" />
+      <item index="1" class="java.lang.String" itemvalue="Python.no3_request" />
+      <item index="2" class="java.lang.String" itemvalue="Python.no3_method" />
+      <item index="3" class="java.lang.String" itemvalue="Python.no4_zabbix" />
+      <item index="4" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.no1_get_163img" />
-        <item index="1" class="java.lang.String" itemvalue="Python.no1_get_data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.no1_url" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ktzInitial" />
-        <item index="4" class="java.lang.String" itemvalue="Python.no2_db_delete" />
+        <item index="0" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
+        <item index="1" class="java.lang.String" itemvalue="Python.no4_zabbix" />
+        <item index="2" class="java.lang.String" itemvalue="Python.no3_method" />
+        <item index="3" class="java.lang.String" itemvalue="Python.no3_request" />
+        <item index="4" class="java.lang.String" itemvalue="Python.no2_json" />
       </list>
     </recent_temporary>
   </component>
@@ -429,14 +482,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-61" y="283" width="1400" height="783" extended-state="1" />
+    <frame x="11" y="227" width="1400" height="775" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30473047" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40670553" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41150442" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12142857" sideWeight="0.4941691" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -467,111 +520,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python2/day03/no5_backup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="66" column="23" lean-forward="true" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/no6_oop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/no7_oop_jicheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.6/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="1483" column="11" lean-forward="false" selection-start-line="1483" selection-start-column="8" selection-end-line="1483" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/no8_oop_myclass.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/no9_books.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/no10_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="52" column="19" lean-forward="false" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/lianxi1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/no4_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/pre01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/no5_time_tcp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/no6_udp_c.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/no6_udp_s.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day04/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python2/day04/no2_apache_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="509">
@@ -798,17 +746,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/devops/day03/no1_url.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="544">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devops/day03/day03.txt">
+    <entry file="file://$PROJECT_DIR$/176.4.15.6">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
+        <state relative-caret-position="153">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no4_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no4_web_err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/hosts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no3_bianma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no2_browser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no1_get_163img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="33" column="37" lean-forward="false" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -816,16 +804,92 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no5_paramiko.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/no5_paramiko_com.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/day03.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="90" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no1_myemail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no2_inetmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#900#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no2_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no3_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devops/day03/no1_get_163img.py">
+    <entry file="file://$PROJECT_DIR$/devops/day04/no3_request.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state relative-caret-position="221">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no4_zabbix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="34" column="44" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="44" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/no5_get_zabbix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="14" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

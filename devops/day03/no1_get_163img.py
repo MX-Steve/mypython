@@ -31,7 +31,7 @@ if __name__ == '__main__':
     ulist = get_urls(img_patt,fname_163,'GBK')
     # print(ulist)
     for img in ulist:
-        imgname=re.split('\/',img)[-1]
+        imgname=re.split('/',img)[-1]
         get_file(img,"/tmp/img/"+imgname)
         # print(imgname)
     # pid=fork()

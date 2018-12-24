@@ -13,3 +13,6 @@ with open('/tmp/163.html','wb') as fobj:
         fobj.write(data)
 
 eog /a.jpg
+
+paramiko ==> ssh,sftp:yuan cheng guan li xi tong , ke yi pi liang cao zuo, zhi xing an quan de ftp
+
