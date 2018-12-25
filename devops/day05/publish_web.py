@@ -2,6 +2,7 @@ import requests
 from  urllib.request import urlopen
 import os
 import hashlib
+import tarfile
 
 
 def get_pack_name(version):
@@ -43,17 +44,31 @@ def check_md5(fname):
 
 def check_package(fname):
     "jiao yan ruan jian bao shi fou wan hao, zheng que fan hui true , fou ze fan hui false"
-    md5_w=requests.get('http://192.168.1.21/deploy/live_version').text.strip()
-    md5_n=check_md5(fname)
-    if md5_n == md5_w:
+    local_name = os.path.basename(fname)
+    url = "http://192.168.1.21/deploy/packages/" + local_name + '.md5'
+    remote_md5=requests.get(url).text.strip()
+    local_md5=check_md5(fname)
+    # print(remote_md5,local_md5)
+    if local_md5 == remote_md5:
         return True
-    else:
-        return False
+
+    return False
 
 
 
 def deploy(fname):
     "jiang xia zai de ruan jian bao bu shu dao web fu wu qi"
+    web_root='/var/www/html/'
+    os.chdir(web_root)
+    tar = tarfile.open(fname, 'r:gz')
+    tar.extractall()
+    tar.close()
+    name=fname.split('/')[-1].split('.tar.')[0]
+    # print(name)
+    dst_name = "/var/www/html/wordpress"
+    if os.path.islink(dst_name):
+        os.unlink(dst_name)
+    os.symlink(name,dst_name)
 
 if __name__ == '__main__':
     prompt="""(0) live version 
@@ -67,6 +82,7 @@ choice(0|1)"""
     url = get_pack_name(version)
     fname = download(url)
     fileok = check_package(fname)
+    # print(fileok)
     if fileok:
         deploy(fname)
     else:

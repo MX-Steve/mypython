@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/devops/day05/publish_web.py" afterPath="$PROJECT_DIR$/devops/day05/publish_web.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +33,7 @@
     <SUITE FILE_PATH="coverage/mypython$no5_killerror.coverage" NAME="no5_killerror Coverage Results" MODIFIED="1544519249048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$mystr.coverage" NAME="mystr Coverage Results" MODIFIED="1544415204993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$lian01.coverage" NAME="lian01 Coverage Results" MODIFIED="1545017836851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
+    <SUITE FILE_PATH="coverage/mypython$test.coverage" NAME="test Coverage Results" MODIFIED="1545731902340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day04" />
     <SUITE FILE_PATH="coverage/mypython$no7_pickle.coverage" NAME="no7_pickle Coverage Results" MODIFIED="1544528127464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$pre.coverage" NAME="pre Coverage Results" MODIFIED="1544499792770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/mypython$no5_paramiko.coverage" NAME="no5_paramiko Coverage Results" MODIFIED="1545439866491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
@@ -109,7 +109,7 @@
     <SUITE FILE_PATH="coverage/mypython$timeit.coverage" NAME="timeit Coverage Results" MODIFIED="1545181027794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/mypython$no8_oop_myclass.coverage" NAME="no8_oop_myclass Coverage Results" MODIFIED="1544776626468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$ktzInitial.coverage" NAME="ktzInitial Coverage Results" MODIFIED="1545311638333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/games/dbs" />
-    <SUITE FILE_PATH="coverage/mypython$publish_web.coverage" NAME="publish_web Coverage Results" MODIFIED="1545720826904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day05" />
+    <SUITE FILE_PATH="coverage/mypython$publish_web.coverage" NAME="publish_web Coverage Results" MODIFIED="1545732419364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day05" />
     <SUITE FILE_PATH="coverage/mypython$mystr2.coverage" NAME="mystr2 Coverage Results" MODIFIED="1544431393991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
     <SUITE FILE_PATH="coverage/mypython$no4_tar.coverage" NAME="no4_tar Coverage Results" MODIFIED="1544760047350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/mypython$no1_get_data.coverage" NAME="no1_get_data Coverage Results" MODIFIED="1545356209930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
@@ -125,11 +125,21 @@
       <file leaf-file-name="publish_web.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/devops/day05/publish_web.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state relative-caret-position="225">
+              <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day04/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -160,7 +170,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python2/day04/no5_time_tcp.py" />
         <option value="$PROJECT_DIR$/python2/day04/no5_client_tcp1.py" />
         <option value="$PROJECT_DIR$/python2/day04/no5_time_tcp1.py" />
         <option value="$PROJECT_DIR$/python2/day04/no6_udp_s.py" />
@@ -210,6 +219,7 @@
         <option value="$PROJECT_DIR$/devops/day04/no3_method.py" />
         <option value="$PROJECT_DIR$/devops/day04/no4_zabbix.py" />
         <option value="$PROJECT_DIR$/devops/day04/no5_get_zabbix.py" />
+        <option value="$PROJECT_DIR$/devops/day04/test.py" />
         <option value="$PROJECT_DIR$/devops/day05/publish_web.py" />
       </list>
     </option>
@@ -221,7 +231,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
+    <option name="x" value="4" />
     <option name="y" value="142" />
     <option name="width" value="1400" />
     <option name="height" value="775" />
@@ -316,25 +326,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="no3_request" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mypython" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/no3_request.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="no4_zabbix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -392,20 +383,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="mypython" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day04/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.no3_request" />
-      <item index="1" class="java.lang.String" itemvalue="Python.no3_method" />
-      <item index="2" class="java.lang.String" itemvalue="Python.no4_zabbix" />
-      <item index="3" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
-      <item index="4" class="java.lang.String" itemvalue="Python.publish_web" />
+      <item index="0" class="java.lang.String" itemvalue="Python.no3_method" />
+      <item index="1" class="java.lang.String" itemvalue="Python.no4_zabbix" />
+      <item index="2" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.publish_web" />
+      <item index="4" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.publish_web" />
-        <item index="1" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
-        <item index="2" class="java.lang.String" itemvalue="Python.no4_zabbix" />
-        <item index="3" class="java.lang.String" itemvalue="Python.no3_method" />
-        <item index="4" class="java.lang.String" itemvalue="Python.no3_request" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.no5_get_zabbix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.no4_zabbix" />
+        <item index="4" class="java.lang.String" itemvalue="Python.no3_method" />
       </list>
     </recent_temporary>
   </component>
@@ -426,14 +436,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="142" width="1400" height="775" extended-state="0" />
-    <editor active="true" />
+    <frame x="4" y="142" width="1400" height="775" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30473047" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41150442" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41150442" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12142857" sideWeight="0.4941691" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -464,13 +473,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python2/day04/no01_re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python2/day04/no4_socket_tcp2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -831,10 +833,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day04/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/devops/day05/publish_web.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="50" column="20" lean-forward="false" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        <state relative-caret-position="225">
+          <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
