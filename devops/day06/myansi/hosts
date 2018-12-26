@@ -1,0 +1,5 @@
+[es]
+es[1:5]
+
+#[logstash]
+#docker01 remote_port=2222

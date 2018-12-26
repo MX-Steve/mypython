@@ -1,0 +1,14 @@
+curl -XGET http://192.168.1.11:9200/_mget?pretty -d '{
+    "docs": [
+        {
+            "_index": "shakspeare",
+            "_type": "line",
+            "_id": "91231"
+        },
+        {
+            "_index": "money",
+            "_type": "nsd01",
+            "_id": "25"
+        }
+    ]
+}'
