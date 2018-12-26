@@ -1,5 +1,19 @@
 [es]
 es[1:5]
 
-#[logstash]
-#docker01 remote_port=2222
+[webservers]
+es1
+es2
+
+[dbservers]
+es3
+es4
+
+[kibana]
+docker01 ansible_port=2222
+
+[web]
+es1
+
+[logstash]
+192.168.1.30
