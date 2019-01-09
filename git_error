@@ -1,0 +1,4 @@
+ git添加公钥后报错sign_and_send_pubkey: signing failed: agent refused operation的解决办法
+
+eval "$(ssh-agent -s)"
+ssh-add
