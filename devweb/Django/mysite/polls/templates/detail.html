@@ -13,5 +13,6 @@
         <li>{{ choice.choice_text }}</li>
     {% endfor %}
 </ul>
+<a href="{% url 'vote' question_id=question_id %}">go to vote</a>
 </body>
 </html>

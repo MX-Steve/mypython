@@ -7,6 +7,14 @@
 <body>
 <h1>result</h1>
 <hr>
-<p>{{ question_id }}</p>
+<h2>{{ question.question_text}}</h2>
+<table border="1px" width="100%">
+    {% for choice in question.choice_set.all %}
+        <tr>
+            <td>{{ choice.choice_text }}</td>
+            <td>{{ choice.votes }}</td>
+        </tr>
+    {% endfor %}
+</table>
 </body>
 </html>
