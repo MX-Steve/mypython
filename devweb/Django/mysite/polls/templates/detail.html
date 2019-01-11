@@ -7,7 +7,11 @@
 <body>
 <h1>detail of polls</h1>
 <hr>
-<p>this is detail of polls</p>
-this is the <p>{{ question_id }}</p> question
+<h2>{{ question.question_text }}</h2>
+<ul>
+    {% for choice in question.choice_set.all %}
+        <li>{{ choice.choice_text }}</li>
+    {% endfor %}
+</ul>
 </body>
 </html>
