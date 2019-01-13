@@ -1,4 +1,4 @@
-
+<pre>
 
 https://blog.csdn.net/qq_37489565/article/details/80612301
 https://yiyibooks.cn/xx/Django_1.11.6/intro/tutorial01.html
@@ -837,4 +837,4 @@ def index(request):
 
 
 
-
+</pre>
