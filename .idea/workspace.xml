@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/detail.html" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/detail.html" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shell/a.sh.gz" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shell/b.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shell/hi.sh" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/shell/systemd" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/devweb/Django/README.md" afterPath="$PROJECT_DIR$/devweb/Django/README.md" />
+      <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html" />
       <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/mysite/polls/views.py" afterPath="$PROJECT_DIR$/devweb/Django/mysite/polls/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -133,21 +136,21 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/devweb/Django/README.md">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-182">
-                  <caret line="465" column="32" lean-forward="true" selection-start-line="465" selection-start-column="32" selection-end-line="465" selection-end-column="32" />
+                <state relative-caret-position="450">
+                  <caret line="486" column="20" lean-forward="true" selection-start-line="486" selection-start-column="20" selection-end-line="486" selection-end-column="20" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="detail.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="detail.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/detail.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+                <state relative-caret-position="270">
+                  <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
                   <folding />
                 </state>
               </provider>
@@ -156,8 +159,8 @@
           <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="119">
-                  <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+                <state relative-caret-position="162">
+                  <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="39" />
                   <folding>
                     <element signature="e#0#41#0" expanded="true" />
                   </folding>
@@ -168,8 +171,8 @@
           <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="408">
-                  <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+                <state relative-caret-position="450">
+                  <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
                   <folding>
                     <element signature="e#0#45#0" expanded="true" />
                   </folding>
@@ -180,8 +183,8 @@
           <file leaf-file-name="vote.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="136">
-                  <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+                <state relative-caret-position="486">
+                  <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="41" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -190,8 +193,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="187">
-                  <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+                <state relative-caret-position="252">
+                  <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
@@ -200,12 +203,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+                <state relative-caret-position="270">
+                  <caret line="15" column="65" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="65" />
                   <folding>
                     <element signature="e#0#45#0" expanded="true" />
                   </folding>
@@ -216,7 +219,7 @@
           <file leaf-file-name="result.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
+                <state relative-caret-position="162">
                   <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
                   <folding />
                 </state>
@@ -292,12 +295,12 @@
         <option value="$PROJECT_DIR$/devweb/Django/README.md" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/models.py" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/admin.py" />
-        <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py" />
-        <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/detail.html" />
         <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/views.py" />
+        <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html" />
+        <option value="$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html" />
       </list>
     </option>
   </component>
@@ -307,7 +310,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="28" />
     <option name="width" value="1440" />
     <option name="height" value="856" />
   </component>
@@ -329,6 +333,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,55 +342,10 @@
               <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
               <item name="mypython" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="polls" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mypython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mypython" type="462c0819:PsiDirectoryNode" />
-              <item name="devweb" type="462c0819:PsiDirectoryNode" />
-              <item name="Django" type="462c0819:PsiDirectoryNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="polls" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -546,8 +507,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="856" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="28" width="1920" height="1018" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30473047" sideWeight="0.50285715" order="7" side_tool="true" content_ui="tabs" />
@@ -555,7 +515,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41150442" sideWeight="0.49714285" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108333334" sideWeight="0.4941691" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1125" sideWeight="0.4941691" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -827,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -835,7 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -851,7 +809,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -859,9 +816,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -878,7 +832,7 @@
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <element signature="e#640#681#0" expanded="true" />
+            <element signature="e#640#681#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -891,63 +845,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devweb/Django/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="465" column="32" lean-forward="true" selection-start-line="465" selection-start-column="32" selection-end-line="465" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        <state relative-caret-position="252">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="15" column="46" lean-forward="false" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/vote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="2" lean-forward="false" selection-start-line="27" selection-start-column="2" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/templates/result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/devweb/Django/mysite/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        <state relative-caret-position="450">
+          <caret line="25" column="20" lean-forward="false" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#0#45#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devweb/Django/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="486" column="20" lean-forward="true" selection-start-line="486" selection-start-column="20" selection-end-line="486" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
