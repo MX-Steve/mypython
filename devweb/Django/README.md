@@ -651,6 +651,7 @@ def index(request):
     if request.method == 'POST':
         title = request.POST.get('title')
         content = request.POST.get('content')
+        #kenenghui chuang jian xiang tong wen zhang
         Blog.objects.get_or_create(title=title, text=content)
 
     articles = Blog.objects.order_by('-pub_date')
