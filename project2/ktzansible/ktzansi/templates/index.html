@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %} index {% endblock %}
+{% block content %}
+    <div class="row text-center h4">
+        <div class="col-md-3">
+            <a href="#"><img src="{% static 'imgs/linux.jpg' %}" alt=""><br>info of host</a>
+        </div>
+        <div class="col-md-3">
+            <a href="#"><img src="{% static 'imgs/linux.jpg' %}" alt=""><br>add to hosts</a>
+        </div>
+        <div class="col-md-3">
+            <a href="#"><img src="{% static 'imgs/linux.jpg' %}" alt=""><br>add to module</a>
+        </div>
+        <div class="col-md-3">
+            <a href="#"><img src="{% static 'imgs/linux.jpg' %}" alt=""><br>run tasks</a>
+        </div>
+    </div>
+{% endblock %}

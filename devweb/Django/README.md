@@ -829,7 +829,7 @@ def index(request):
     <div>{{ article.text|linebreaks }}</div>
 
 
-
+www.conyli.cc/django-2.-by-example ==> django develop
 
 
 
