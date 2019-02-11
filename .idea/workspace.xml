@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33f29683-7d36-41d8-8fda-b0c39e5ffe59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/mypython.iml" afterPath="$PROJECT_DIR$/.idea/mypython.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/README.md" afterPath="$PROJECT_DIR$/devweb/Django/README.md" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/admin.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/apps.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/migrations/0001_initial.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/migrations/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/templates/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/tests.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/blog/views.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/db.sqlite3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/manage.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/myblog/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/myblog/settings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/myblog/urls.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/myblog/wsgi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/devweb/Django/myblog/myvote.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html" afterPath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html" />
-      <change beforePath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/base.html" afterPath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/base.html" />
-      <change beforePath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/index.html" afterPath="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/project2/ktzansible/ktzansi/urls.py" afterPath="$PROJECT_DIR$/project2/ktzansible/ktzansi/urls.py" />
+      <change beforePath="$PROJECT_DIR$/devweb/Django/.ansible.txt.swp" afterPath="" />
       <change beforePath="$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py" afterPath="$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py" />
-      <change beforePath="$PROJECT_DIR$/project2/myansible/webansi/templates/index.html" afterPath="$PROJECT_DIR$/project2/myansible/webansi/templates/index.html" />
-      <change beforePath="$PROJECT_DIR$/project2/myansible/webansi/urls.py" afterPath="$PROJECT_DIR$/project2/myansible/webansi/urls.py" />
-      <change beforePath="$PROJECT_DIR$/project2/myansible/webansi/views.py" afterPath="$PROJECT_DIR$/project2/myansible/webansi/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,7 +132,7 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="136">
               <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -166,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="123">
+              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -178,11 +153,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addhosts.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addhosts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="68" lean-forward="false" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
+            <state relative-caret-position="323">
+              <caret line="19" column="69" lean-forward="false" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -191,7 +166,7 @@
       <file leaf-file-name="tasks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/tasks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
+            <state relative-caret-position="119">
               <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding>
                 <element signature="e#291#315#0#HTML" expanded="true" />
@@ -304,8 +279,8 @@
         <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/urls.py" />
         <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/index.html" />
         <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/tasks.html" />
-        <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py" />
         <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html" />
+        <option value="$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py" />
       </list>
     </option>
   </component>
@@ -315,9 +290,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="228" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="120" />
+    <option name="y" value="24" />
     <option name="width" value="1440" />
     <option name="height" value="766" />
   </component>
@@ -339,8 +314,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -394,13 +367,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/project2/ktzansible/ktzansible/settings.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project2/ktzansible" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -555,7 +530,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="86" width="1440" height="766" extended-state="0" />
+    <frame x="120" y="24" width="1440" height="766" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -598,9 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#640#681#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -696,9 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,13 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/a.html" />
     <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansible/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-867">
@@ -784,9 +747,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="e#643#683#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,9 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-          <folding>
-            <element signature="e#644#684#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -804,7 +761,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -812,7 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -820,9 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -846,7 +798,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="29" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="29" />
-          <folding />
+          <folding>
+            <element signature="e#291#315#0#HTML" expanded="true" />
+            <element signature="e#1101#2140#0#HTML" expanded="false" />
+            <element signature="e#2145#2259#0#HTML" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -854,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2805">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +823,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/tasks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
+        <state relative-caret-position="119">
           <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
           <folding>
             <element signature="e#291#315#0#HTML" expanded="true" />
@@ -882,7 +837,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="33" column="63" lean-forward="false" selection-start-line="33" selection-start-column="63" selection-end-line="33" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,13 +844,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-340">
           <caret line="0" column="976" lean-forward="true" selection-start-line="0" selection-start-column="976" selection-end-line="0" selection-end-column="976" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="136">
           <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
@@ -904,21 +857,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py">
+    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="69" lean-forward="false" selection-start-line="19" selection-start-column="69" selection-end-line="19" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/templates/addhosts.html">
+    <entry file="file://$PROJECT_DIR$/project2/ktzansible/ktzansi/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="68" lean-forward="false" selection-start-line="8" selection-start-column="68" selection-end-line="8" selection-end-column="68" />
-          <folding />
+        <state relative-caret-position="123">
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
