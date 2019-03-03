@@ -1,8 +1,0 @@
-[se]
-se[1:5]
-
-[web]
-kibana
-
-[log]
-logstash

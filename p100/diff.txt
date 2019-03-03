@@ -1,6 +1,0 @@
-xx
-da1emon:x:2:2:daemon:/sbin:/sbin/nologin
-1.
-SELECT DEPT.DEPT_NAME, EMP.EMP_NAME, EMP.SAL
-EMP.SAL > 5000
-

@@ -1,5 +1,0 @@
-#a=input('请输入：')
-#print(a)
-a=int(input("数字a："))
-b=int(input("数字b："))
-print("a+b=",a+b)

@@ -1,0 +1,5 @@
+atuple=(10,20,30,40,"bob","tom",[1,2,3])
+print(len(atuple))
+print(10 in atuple)
+print(atuple[1])
+print(atuple[2:6])

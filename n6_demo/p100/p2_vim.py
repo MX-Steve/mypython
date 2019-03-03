@@ -1,0 +1,6 @@
+print('hello world')
+print('hello','world')
+print('hello'+'world')
+print('hello','world',sep='***')
+print('hello','world',end='///')
+print('*'*50)

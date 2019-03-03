@@ -1,0 +1,32 @@
+type=SYSCALL msg=audit(1544405433.417:3358): arch=c000003e syscall=2 success=yes exit=3 a0=e6d280 a1=0 a2=0 a3=7ffdbff4d560 items=1 ppid=1474 pid=1945 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=pts0 ses=179 comm="vim" exe="/usr/bin/vim" key="ssh_change"
+type=CWD msg=audit(1544405433.417:3358):  cwd="/root"
+type=PATH msg=audit(1544405433.417:3358): item=0 name="/etc/ssh/sshd_config" inode=1837355 dev=fd:01 mode=0100600 ouid=0 ogid=0 rdev=00:00 objtype=NORMAL cap_fp=0000000000000000 cap_fi=0000000000000000 cap_fe=0 cap_fver=0
+type=PROCTITLE msg=audit(1544405433.417:3358): proctitle=76696D002F6574632F7373682F737368645F636F6E666967
+type=SYSCALL msg=audit(1544405433.417:3359): arch=c000003e syscall=89 success=no exit=-22 a0=7ffdbff4b520 a1=7ffdbff4c560 a2=fff a3=7ffdbff4afa0 items=1 ppid=1474 pid=1945 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=pts0 ses=179 comm="vim" exe="/usr/bin/vim" key="ssh_change"
+type=CWD msg=audit(1544405433.417:3359):  cwd="/root"
+type=PATH msg=audit(1544405433.417:3359): item=0 name="/etc/ssh/sshd_config" inode=1837355 dev=fd:01 mode=0100600 ouid=0 ogid=0 rdev=00:00 objtype=NORMAL cap_fp=0000000000000000 cap_fi=0000000000000000 cap_fe=0 cap_fver=0
+type=PROCTITLE msg=audit(1544405433.417:3359): proctitle=76696D002F6574632F7373682F737368645F636F6E666967
+type=SYSCALL msg=audit(1544405433.417:3360): arch=c000003e syscall=2 success=yes exit=3 a0=e6d280 a1=0 a2=0 a3=1 items=1 ppid=1474 pid=1945 auid=0 uid=0 gid=0 euid=0 suid=0 fsuid=0 egid=0 sgid=0 fsgid=0 tty=pts0 ses=179 comm="vim" exe="/usr/bin/vim" key="ssh_change"
+type=CWD msg=audit(1544405433.417:3360):  cwd="/root"
+type=PATH msg=audit(1544405433.417:3360): item=0 name="/etc/ssh/sshd_config" inode=1837355 dev=fd:01 mode=0100600 ouid=0 ogid=0 rdev=00:00 objtype=NORMAL cap_fp=0000000000000000 cap_fi=0000000000000000 cap_fe=0 cap_fver=0
+type=PROCTITLE msg=audit(1544405433.417:3360): proctitle=76696D002F6574632F7373682F737368645F636F6E666967
+
+ausearch -k ssh_change -i
+[root@ecs-tiao ~]# ausearch -k ssh_change -i
+----
+type=CONFIG_CHANGE msg=audit(12/10/2018 09:22:49.389:3336) : auid=root ses=179 op=add_rule key=ssh_change list=exit res=yes
+----
+type=PROCTITLE msg=audit(12/10/2018 09:30:33.417:3358) : proctitle=vim /etc/ssh/sshd_config
+type=PATH msg=audit(12/10/2018 09:30:33.417:3358) : item=0 name=/etc/ssh/sshd_config inode=1837355 dev=fd:01 mode=file,600 ouid=root ogid=root rdev=00:00 objtype=NORMAL cap_fp=none cap_fi=none cap_fe=0 cap_fver=0
+type=CWD msg=audit(12/10/2018 09:30:33.417:3358) :  cwd=/root
+type=SYSCALL msg=audit(12/10/2018 09:30:33.417:3358) : arch=x86_64 syscall=open success=yes exit=3 a0=0xe6d280 a1=O_RDONLY a2=0x0 a3=0x7ffdbff4d560 items=1 ppid=1474 pid=1945 auid=root uid=root gid=root euid=root suid=root fsuid=root egid=root sgid=root fsgid=root tty=pts0 ses=179 comm=vim exe=/usr/bin/vim key=ssh_change
+----
+type=PROCTITLE msg=audit(12/10/2018 09:30:33.417:3359) : proctitle=vim /etc/ssh/sshd_config
+type=PATH msg=audit(12/10/2018 09:30:33.417:3359) : item=0 name=/etc/ssh/sshd_config inode=1837355 dev=fd:01 mode=file,600 ouid=root ogid=root rdev=00:00 objtype=NORMAL cap_fp=none cap_fi=none cap_fe=0 cap_fver=0
+type=CWD msg=audit(12/10/2018 09:30:33.417:3359) :  cwd=/root
+type=SYSCALL msg=audit(12/10/2018 09:30:33.417:3359) : arch=x86_64 syscall=readlink success=no exit=EINVAL(Invalid argument) a0=0x7ffdbff4b520 a1=0x7ffdbff4c560 a2=0xfff a3=0x7ffdbff4afa0 items=1 ppid=1474 pid=1945 auid=root uid=root gid=root euid=root suid=root fsuid=root egid=root sgid=root fsgid=root tty=pts0 ses=179 comm=vim exe=/usr/bin/vim key=ssh_change
+----
+type=PROCTITLE msg=audit(12/10/2018 09:30:33.417:3360) : proctitle=vim /etc/ssh/sshd_config
+type=PATH msg=audit(12/10/2018 09:30:33.417:3360) : item=0 name=/etc/ssh/sshd_config inode=1837355 dev=fd:01 mode=file,600 ouid=root ogid=root rdev=00:00 objtype=NORMAL cap_fp=none cap_fi=none cap_fe=0 cap_fver=0
+type=CWD msg=audit(12/10/2018 09:30:33.417:3360) :  cwd=/root
+type=SYSCALL msg=audit(12/10/2018 09:30:33.417:3360) : arch=x86_64 syscall=open success=yes exit=3 a0=0xe6d280 a1=O_RDONLY a2=0x0 a3=0x1 items=1 ppid=1474 pid=1945 auid=root uid=root gid=root euid=root suid=root fsuid=root egid=root sgid=root fsgid=root tty=pts0 ses=179 comm=vim exe=/usr/bin/vim key=ssh_change

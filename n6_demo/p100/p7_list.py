@@ -1,0 +1,9 @@
+alist=[11,22,33,44,[1,2,3]]
+print(len(alist))
+print(alist[0])
+print(alist[-1])
+print(alist[1:4])
+alist[-1]=200
+print(alist)
+alist.append(300)
+print(alist)
