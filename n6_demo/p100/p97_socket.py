@@ -1,5 +1,5 @@
 import socket
-from time imoprt strftime
+from time import strftime
 class TcpTimeServer:
   def __init__(self,host='',port=12345):
     self.addr=(host,port)
