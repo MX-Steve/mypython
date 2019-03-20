@@ -14,6 +14,7 @@ class Date:
         mydate = cls(year,month,day)
         return mydate
 
+    @staticmethod
     def is_date_valid(str_date):
         year,month,day=map(int,str_date.split('-'))
         return year < 4000 and 1<=month<=12 and 1<=day<=31
