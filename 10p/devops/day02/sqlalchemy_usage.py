@@ -7,7 +7,7 @@ from sqlalchemy.orm import sessionmaker
 engine = create_engine(
     'mysql+pymysql://root:123456@176.4.16.101/tarena?charset=utf8',
     encoding='utf8',
-    echo=True
+    # echo=True
 )
 
 Base=declarative_base()
