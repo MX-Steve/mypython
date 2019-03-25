@@ -13,6 +13,7 @@ if __name__ == '__main__':
     # add(50000001)
     # end=time.time()
     # print(end-start)
+
     start=time.time()
     for i in range(2):
         pid=os.fork()
