@@ -18,6 +18,7 @@
     <SUITE FILE_PATH="coverage/10p$apache_ip2.coverage" NAME="apache_ip2 Coverage Results" MODIFIED="1553064159986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/10p$zb3.coverage" NAME="zb3 Coverage Results" MODIFIED="1553482361350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/10p$qsort.coverage" NAME="qsort Coverage Results" MODIFIED="1552896348648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
+    <SUITE FILE_PATH="coverage/10p$add_employees.coverage" NAME="add_employees Coverage Results" MODIFIED="1553507384007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/10p$select_data.coverage" NAME="select_data Coverage Results" MODIFIED="1553502543273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/10p$bar.coverage" NAME="bar Coverage Results" MODIFIED="1552962698465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/10p$mydate.coverage" NAME="mydate Coverage Results" MODIFIED="1552987902993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
@@ -30,7 +31,7 @@
     <SUITE FILE_PATH="coverage/10p$tcp_time_sever2.coverage" NAME="tcp_time_sever2 Coverage Results" MODIFIED="1553067061220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/10p$mygui.coverage" NAME="mygui Coverage Results" MODIFIED="1552878693190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/10p$p5.coverage" NAME="p5 Coverage Results" MODIFIED="1552548688792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
-    <SUITE FILE_PATH="coverage/10p$add_department.coverage" NAME="add_department Coverage Results" MODIFIED="1553506010705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/10p$add_department.coverage" NAME="add_department Coverage Results" MODIFIED="1553506126251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/10p$timeit2.coverage" NAME="timeit2 Coverage Results" MODIFIED="1553498038809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/10p$udp_time_server.coverage" NAME="udp_time_server Coverage Results" MODIFIED="1553070593051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
     <SUITE FILE_PATH="coverage/10p$adduser.coverage" NAME="adduser Coverage Results" MODIFIED="1552550677683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
@@ -59,7 +60,7 @@
     <SUITE FILE_PATH="coverage/10p$star.coverage" NAME="star Coverage Results" MODIFIED="1552469913969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day03" />
     <SUITE FILE_PATH="coverage/10p$mydiv.coverage" NAME="mydiv Coverage Results" MODIFIED="1552708011048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/10p$tcp_time_server.coverage" NAME="tcp_time_server Coverage Results" MODIFIED="1553489139862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
-    <SUITE FILE_PATH="coverage/10p$sqlalchemy_usage.coverage" NAME="sqlalchemy_usage Coverage Results" MODIFIED="1553505026459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
+    <SUITE FILE_PATH="coverage/10p$sqlalchemy_usage.coverage" NAME="sqlalchemy_usage Coverage Results" MODIFIED="1553506945407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day02" />
     <SUITE FILE_PATH="coverage/10p$md.coverage" NAME="md Coverage Results" MODIFIED="1552964553007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/10p$aset.coverage" NAME="aset Coverage Results" MODIFIED="1552717552224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/10p$timeit.coverage" NAME="timeit Coverage Results" MODIFIED="1553496398928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
@@ -68,11 +69,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sqlalchemy_usage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sqlalchemy_usage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/devops/day02/sqlalchemy_usage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="221">
+              <caret line="31" column="61" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="61" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -80,11 +81,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="add_employees.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devops/day02/add_employees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="add_department.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/devops/day02/add_department.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="221">
+              <caret line="13" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -102,7 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python2/day02/demo1_jiajian.py" />
         <option value="$PROJECT_DIR$/python2/day02/noname.py" />
         <option value="$PROJECT_DIR$/python2/day02/qsort.py" />
         <option value="$PROJECT_DIR$/python2/day02/mygen.py" />
@@ -153,6 +163,7 @@
         <option value="$PROJECT_DIR$/devops/day02/update_data.py" />
         <option value="$PROJECT_DIR$/devops/day02/add_department.py" />
         <option value="$PROJECT_DIR$/devops/day02/sqlalchemy_usage.py" />
+        <option value="$PROJECT_DIR$/devops/day02/add_employees.py" />
       </list>
     </option>
   </component>
@@ -164,7 +175,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
-    <option name="y" value="-4" />
+    <option name="y" value="4" />
     <option name="width" value="1440" />
     <option name="height" value="856" />
   </component>
@@ -240,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.add_department">
+  <component name="RunManager" selected="Python.add_employees">
     <configuration name="add_department" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,7 +271,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="select_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="add_employees" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -273,7 +284,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="10p" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day02/select_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day02/add_employees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -337,19 +348,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.select_data" />
-      <item index="1" class="java.lang.String" itemvalue="Python.select_data2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.update_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sqlalchemy_usage" />
-      <item index="4" class="java.lang.String" itemvalue="Python.add_department" />
+      <item index="0" class="java.lang.String" itemvalue="Python.select_data2" />
+      <item index="1" class="java.lang.String" itemvalue="Python.update_data" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sqlalchemy_usage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.add_department" />
+      <item index="4" class="java.lang.String" itemvalue="Python.add_employees" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.add_department" />
+        <item index="0" class="java.lang.String" itemvalue="Python.add_employees" />
         <item index="1" class="java.lang.String" itemvalue="Python.sqlalchemy_usage" />
-        <item index="2" class="java.lang.String" itemvalue="Python.update_data" />
-        <item index="3" class="java.lang.String" itemvalue="Python.select_data2" />
-        <item index="4" class="java.lang.String" itemvalue="Python.select_data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.add_department" />
+        <item index="3" class="java.lang.String" itemvalue="Python.update_data" />
+        <item index="4" class="java.lang.String" itemvalue="Python.select_data2" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +381,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="-4" width="1440" height="856" extended-state="0" />
+    <frame x="4" y="4" width="1440" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -411,13 +422,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python2/day02/noname.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python2/day02/qsort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -770,19 +774,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/devops/day02/add_department.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/devops/day02/sqlalchemy_usage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="65" lean-forward="false" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="221">
+          <caret line="31" column="61" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="31" selection-end-column="61" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day02/add_employees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
