@@ -11,6 +11,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/10p$magic.coverage" NAME="magic Coverage Results" MODIFIED="1552985508906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
+    <SUITE FILE_PATH="coverage/10p$forkping.coverage" NAME="forkping Coverage Results" MODIFIED="1553478283544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/10p$myerror.coverage" NAME="myerror Coverage Results" MODIFIED="1552709602840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/10p$unix2dos.coverage" NAME="unix2dos Coverage Results" MODIFIED="1552706941203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/10p$p4.coverage" NAME="p4 Coverage Results" MODIFIED="1552533678778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python1/day04" />
@@ -55,50 +56,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tcp_time_server3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python2/day04/tcp_time_server3.py">
+      <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day01/hello.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-              <folding>
-                <element signature="e#48#61#0" expanded="true" />
-              </folding>
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="udp_time_server.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python2/day04/udp_time_server.py">
+      <file leaf-file-name="myfork.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day01/myfork.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="36" lean-forward="true" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="e#41#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="udp_time_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python2/day04/udp_time_client.py">
+      <file leaf-file-name="forkping.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devops/day01/forkping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-              <folding>
-                <element signature="e#42#55#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tcp_time_client.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python2/day04/tcp_time_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-              <folding>
-                <element signature="e#43#54#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -115,10 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python1/day01/call_star.py" />
-        <option value="$PROJECT_DIR$/python1/day03/call_star.py" />
-        <option value="$PROJECT_DIR$/python1/day04/p1.py" />
-        <option value="$PROJECT_DIR$/python1/day04/p3.py" />
         <option value="$PROJECT_DIR$/python1/day04/p2.py" />
         <option value="$PROJECT_DIR$/python1/day04/p4.py" />
         <option value="$PROJECT_DIR$/python1/day04/p5.py" />
@@ -166,6 +145,10 @@
         <option value="$PROJECT_DIR$/python2/day04/tcp_time_server4.py" />
         <option value="$PROJECT_DIR$/python2/day04/udp_time_server.py" />
         <option value="$PROJECT_DIR$/python2/day04/udp_time_client.py" />
+        <option value="$PROJECT_DIR$/devops/day01/chdir.sh" />
+        <option value="$PROJECT_DIR$/devops/day01/hello.py" />
+        <option value="$PROJECT_DIR$/devops/day01/myfork.py" />
+        <option value="$PROJECT_DIR$/devops/day01/forkping.py" />
       </list>
     </option>
   </component>
@@ -175,7 +158,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-4" />
     <option name="y" value="64" />
     <option name="width" value="1440" />
@@ -206,13 +189,13 @@
             <path>
               <item name="10p" type="b2602c69:ProjectViewProjectNode" />
               <item name="10p" type="462c0819:PsiDirectoryNode" />
-              <item name="python2" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="10p" type="b2602c69:ProjectViewProjectNode" />
               <item name="10p" type="462c0819:PsiDirectoryNode" />
-              <item name="python2" type="462c0819:PsiDirectoryNode" />
-              <item name="day04" type="462c0819:PsiDirectoryNode" />
+              <item name="devops" type="462c0819:PsiDirectoryNode" />
+              <item name="day01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,21 +230,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.udp_time_server">
-    <configuration name="apache_ip3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.forkping">
+    <configuration name="forkping" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python2/day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/devops/day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="10p" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python2/day04/apache_ip3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day01/forkping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -344,19 +327,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.apache_ip3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tcp_time_server" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tcp_time_sever2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.tcp_time_server3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.udp_time_server" />
+      <item index="0" class="java.lang.String" itemvalue="Python.tcp_time_server" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tcp_time_sever2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.tcp_time_server3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.udp_time_server" />
+      <item index="4" class="java.lang.String" itemvalue="Python.forkping" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.udp_time_server" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tcp_time_server3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tcp_time_sever2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tcp_time_server" />
-        <item index="4" class="java.lang.String" itemvalue="Python.apache_ip3" />
+        <item index="0" class="java.lang.String" itemvalue="Python.forkping" />
+        <item index="1" class="java.lang.String" itemvalue="Python.udp_time_server" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tcp_time_server3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tcp_time_sever2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.tcp_time_server" />
       </list>
     </recent_temporary>
   </component>
@@ -377,14 +360,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="64" width="1440" height="766" extended-state="1" />
+    <frame x="-4" y="64" width="1440" height="766" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285151" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980626" sideWeight="0.49444443" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980626" sideWeight="0.49444443" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -418,28 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python1/day03/star.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/day01/star.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python1/day04/p3.py" />
-    <entry file="file://$PROJECT_DIR$/python1/day03/call_star.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python1/day04/p1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -814,6 +775,38 @@
           <folding>
             <element signature="e#41#54#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day01/chdir.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day01/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day01/myfork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day01/forkping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="41" lean-forward="false" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
