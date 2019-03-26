@@ -6,8 +6,8 @@ import json
 url="http://www.kuaidi100.com/query?type=youzhengguonei&postid=9893442769997"
 r = urlopen(url)
 data = r.read()
-data = json.loads(data)
-info = data['data']
+kd = json.loads(data)
+info = kd['data']
 # print(info)
 # print(info[-1])
 # time = info[-1]['time']

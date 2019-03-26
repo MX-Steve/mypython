@@ -29,6 +29,7 @@
     <SUITE FILE_PATH="coverage/10p$mydate.coverage" NAME="mydate Coverage Results" MODIFIED="1552987902993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day03" />
     <SUITE FILE_PATH="coverage/10p$userlogin.coverage" NAME="userlogin Coverage Results" MODIFIED="1552703692515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day01" />
     <SUITE FILE_PATH="coverage/10p$zb2.coverage" NAME="zb2 Coverage Results" MODIFIED="1553482020642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
+    <SUITE FILE_PATH="coverage/10p$remote_command.coverage" NAME="remote_command Coverage Results" MODIFIED="1553580144184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day03" />
     <SUITE FILE_PATH="coverage/10p$mtping2.coverage" NAME="mtping2 Coverage Results" MODIFIED="1553497452218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/devops/day01" />
     <SUITE FILE_PATH="coverage/10p$fun1.coverage" NAME="fun1 Coverage Results" MODIFIED="1552878298399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day02" />
     <SUITE FILE_PATH="coverage/10p$apache_ip3.coverage" NAME="apache_ip3 Coverage Results" MODIFIED="1553064694713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2/day04" />
@@ -85,17 +86,49 @@
         <entry file="file://$PROJECT_DIR$/devops/day03/myparamiko.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kuaidi.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="paramiko_threading.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day03/paramiko_threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/devops/day03/user.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remote_command.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/devops/day03/remote_command.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kuaidi.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/devops/day04/kuaidi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="306">
+              <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -115,9 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python2/day03/magic.py" />
-        <option value="$PROJECT_DIR$/python2/day03/mydate.py" />
-        <option value="$PROJECT_DIR$/python2/day04/filemd5.py" />
         <option value="$PROJECT_DIR$/python2/day04/pre_lianxi.py" />
         <option value="$PROJECT_DIR$/python2/day04/backup.py" />
         <option value="$PROJECT_DIR$/python2/day04/test.py" />
@@ -166,6 +196,9 @@
         <option value="$PROJECT_DIR$/devops/day03/getweb3.py" />
         <option value="$PROJECT_DIR$/devops/day03/myparamiko.py" />
         <option value="$PROJECT_DIR$/devops/day04/kuaidi.py" />
+        <option value="$PROJECT_DIR$/devops/day03/paramiko_threading.py" />
+        <option value="$PROJECT_DIR$/devops/day03/user.txt" />
+        <option value="$PROJECT_DIR$/devops/day03/remote_command.py" />
       </list>
     </option>
   </component>
@@ -176,7 +209,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="209" />
+    <option name="x" value="-4" />
     <option name="y" value="4" />
     <option name="width" value="1440" />
     <option name="height" value="848" />
@@ -254,7 +287,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.kuaidi">
+  <component name="RunManager" selected="Python.remote_command">
     <configuration name="kuaidi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +345,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="search_baidu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="remote_command" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -325,7 +358,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="10p" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day03/search_baidu.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/devops/day03/remote_command.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,19 +384,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.search_baidu" />
-      <item index="1" class="java.lang.String" itemvalue="Python.myjson" />
-      <item index="2" class="java.lang.String" itemvalue="Python.tianqi" />
-      <item index="3" class="java.lang.String" itemvalue="Python.myparamiko" />
-      <item index="4" class="java.lang.String" itemvalue="Python.kuaidi" />
+      <item index="0" class="java.lang.String" itemvalue="Python.myjson" />
+      <item index="1" class="java.lang.String" itemvalue="Python.tianqi" />
+      <item index="2" class="java.lang.String" itemvalue="Python.myparamiko" />
+      <item index="3" class="java.lang.String" itemvalue="Python.kuaidi" />
+      <item index="4" class="java.lang.String" itemvalue="Python.remote_command" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.kuaidi" />
-        <item index="1" class="java.lang.String" itemvalue="Python.myparamiko" />
-        <item index="2" class="java.lang.String" itemvalue="Python.tianqi" />
-        <item index="3" class="java.lang.String" itemvalue="Python.myjson" />
-        <item index="4" class="java.lang.String" itemvalue="Python.search_baidu" />
+        <item index="0" class="java.lang.String" itemvalue="Python.remote_command" />
+        <item index="1" class="java.lang.String" itemvalue="Python.kuaidi" />
+        <item index="2" class="java.lang.String" itemvalue="Python.myparamiko" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tianqi" />
+        <item index="4" class="java.lang.String" itemvalue="Python.myjson" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +417,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="209" y="4" width="1440" height="848" extended-state="0" />
+    <frame x="-4" y="4" width="1440" height="848" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -425,27 +458,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python2/day03/filemd5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/magic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python2/day03/mydate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python2/day04/pre_lianxi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -723,6 +735,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -774,20 +789,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devops/day03/myparamiko.py">
+    <entry file="file://$PROJECT_DIR$/devops/day04/kuaidi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/paramiko_threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/devops/day04/kuaidi.py">
+    <entry file="file://$PROJECT_DIR$/devops/day03/myparamiko.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/user.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/devops/day03/remote_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="61" lean-forward="false" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
