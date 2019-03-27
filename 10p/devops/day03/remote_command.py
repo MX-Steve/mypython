@@ -8,9 +8,6 @@ def remote_com(hosts,user,passwd,cmd):
     ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
     ssh.connect(hostname=hosts,username=user,password=passwd)
     stdin,stdout,stderr = ssh.exec_command(cmd)
-    # print(len(a))     # a[0] -> input ; a[1] -> out ; a[2] -> error
-    # # print(a[1].read())
-    # # print(a[2].read())
     out = stdout.read()
     err=stderr.read()
     if out:
