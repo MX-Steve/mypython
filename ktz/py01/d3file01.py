@@ -1,0 +1,20 @@
+# f=open('/tmp/mima')
+# data=f.read()
+# print(data)
+# print("hello")
+# f.seek(0)
+# data=f.read()
+# print(data)
+# f.close()
+# for line in f:
+#     print(line,end='')
+# f.close()
+#
+# f=open('/tmp/mimi','w')
+# f.write('hello world!\n')
+# f.writelines(['2nd lines\n','3rd lines\n'])
+# f.close()
+
+f=open('/tmp/mima','rb')
+data=f.read(10)
+print(data)
