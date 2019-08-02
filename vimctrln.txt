@@ -1,0 +1,5 @@
+hello hoo
+are how hellw
+hellw
+are
+# ctrl + n 自动补全
