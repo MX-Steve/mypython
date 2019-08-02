@@ -12,71 +12,82 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/ktz$d3fun2.coverage" NAME="d3fun2 Coverage Results" MODIFIED="1564599419765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d4tofile.coverage" NAME="d4tofile Coverage Results" MODIFIED="1564664918907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4kuang.coverage" NAME="d4kuang Coverage Results" MODIFIED="1564667535044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4dict1.coverage" NAME="d4dict1 Coverage Results" MODIFIED="1564720903211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$score.coverage" NAME="score Coverage Results" MODIFIED="1564541097408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4userlogin.coverage" NAME="d4userlogin Coverage Results" MODIFIED="1564723919471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$hi.coverage" NAME="hi Coverage Results" MODIFIED="1564539376329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4list.coverage" NAME="d4list Coverage Results" MODIFIED="1564672136251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1564586631424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$randpass.coverage" NAME="randpass Coverage Results" MODIFIED="1564653193636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$sum100.coverage" NAME="sum100 Coverage Results" MODIFIED="1564584821362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$fib1.coverage" NAME="fib1 Coverage Results" MODIFIED="1564587375460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$d4kuang.coverage" NAME="d4kuang Coverage Results" MODIFIED="1564667535044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$jiandao2.coverage" NAME="jiandao2 Coverage Results" MODIFIED="1564543666733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$jiandao.coverage" NAME="jiandao Coverage Results" MODIFIED="1564541127590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4zhan.coverage" NAME="d4zhan Coverage Results" MODIFIED="1564720336959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d4str1.coverage" NAME="d4str1 Coverage Results" MODIFIED="1564667801682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$score.coverage" NAME="score Coverage Results" MODIFIED="1564541097408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$caishu.coverage" NAME="caishu Coverage Results" MODIFIED="1564585603137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$hi.coverage" NAME="hi Coverage Results" MODIFIED="1564539376329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$star.coverage" NAME="star Coverage Results" MODIFIED="1564600534071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d4shutil1.coverage" NAME="d4shutil1 Coverage Results" MODIFIED="1564662029026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d4f1.coverage" NAME="d4f1 Coverage Results" MODIFIED="1564653730853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$d4adduser.coverage" NAME="d4adduser Coverage Results" MODIFIED="1564669457593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4adduser.coverage" NAME="d4adduser Coverage Results" MODIFIED="1564671335646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d3cp1.coverage" NAME="d3cp1 Coverage Results" MODIFIED="1564597281486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1564586631424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4tuple.coverage" NAME="d4tuple Coverage Results" MODIFIED="1564672250706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d3file01.coverage" NAME="d3file01 Coverage Results" MODIFIED="1564596245487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
-    <SUITE FILE_PATH="coverage/ktz$randpass.coverage" NAME="randpass Coverage Results" MODIFIED="1564653193636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d5set1.coverage" NAME="d5set1 Coverage Results" MODIFIED="1564724624648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$d3fun1.coverage" NAME="d3fun1 Coverage Results" MODIFIED="1564599416341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
     <SUITE FILE_PATH="coverage/ktz$login2.coverage" NAME="login2 Coverage Results" MODIFIED="1564540156243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="d4tofile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py01/d4tofile.py">
+      <file leaf-file-name="d4dict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py01/d4dict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d4str1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py01/d4str1.py">
+      <file leaf-file-name="d4dict1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py01/d4dict1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="381">
-              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d4adduser.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/py01/d4adduser.py">
+      <file leaf-file-name="d4userlogin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/py01/d4userlogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d4kuang.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/py01/d4kuang.py">
+      <file leaf-file-name="d5set1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py01/d5set1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="364">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,6 +114,13 @@
         <option value="$PROJECT_DIR$/py01/d4kuang.py" />
         <option value="$PROJECT_DIR$/py01/d4str1.py" />
         <option value="$PROJECT_DIR$/py01/d4adduser.py" />
+        <option value="$PROJECT_DIR$/py01/d4list.py" />
+        <option value="$PROJECT_DIR$/py01/d4tuple.py" />
+        <option value="$PROJECT_DIR$/py01/d4zhan.py" />
+        <option value="$PROJECT_DIR$/py01/d4dict.py" />
+        <option value="$PROJECT_DIR$/py01/d4dict1.py" />
+        <option value="$PROJECT_DIR$/py01/d4userlogin.py" />
+        <option value="$PROJECT_DIR$/py01/d5set1.py" />
       </list>
     </option>
   </component>
@@ -167,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d4adduser">
-    <configuration name="d4adduser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.d5set1">
+    <configuration name="d4dict1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -181,13 +199,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ktz" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4adduser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4dict1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="d4kuang" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d4tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -200,13 +218,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ktz" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4kuang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="d4shutil1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d4userlogin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -219,13 +237,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ktz" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4shutil1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4userlogin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="d4str1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d4zhan" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -238,13 +256,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ktz" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4str1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4zhan.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="d4tofile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d5set1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -257,26 +275,26 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ktz" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d4tofile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py01/d5set1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.d4shutil1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.d4tofile" />
-      <item index="2" class="java.lang.String" itemvalue="Python.d4str1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.d4kuang" />
-      <item index="4" class="java.lang.String" itemvalue="Python.d4adduser" />
+      <item index="0" class="java.lang.String" itemvalue="Python.d4tuple" />
+      <item index="1" class="java.lang.String" itemvalue="Python.d4zhan" />
+      <item index="2" class="java.lang.String" itemvalue="Python.d4dict1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.d4userlogin" />
+      <item index="4" class="java.lang.String" itemvalue="Python.d5set1" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.d4adduser" />
-        <item index="1" class="java.lang.String" itemvalue="Python.d4str1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.d4kuang" />
-        <item index="3" class="java.lang.String" itemvalue="Python.d4tofile" />
-        <item index="4" class="java.lang.String" itemvalue="Python.d4shutil1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.d5set1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.d4userlogin" />
+        <item index="2" class="java.lang.String" itemvalue="Python.d4dict1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.d4zhan" />
+        <item index="4" class="java.lang.String" itemvalue="Python.d4tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +324,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3823916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4401451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -329,7 +347,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -490,7 +510,7 @@
         <state relative-caret-position="204">
           <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding>
-            <element signature="e#17#50#0" expanded="true" />
+            <element signature="e#17#50#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -500,7 +520,7 @@
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="26" selection-end-column="21" />
           <folding>
-            <element signature="e#285#310#0" expanded="true" />
+            <element signature="e#285#310#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -518,7 +538,7 @@
         <state relative-caret-position="316">
           <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="40" selection-end-column="30" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -549,11 +569,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py01/d4adduser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        <state relative-caret-position="194">
+          <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4zhan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="false" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4dict1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d4userlogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py01/d5set1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

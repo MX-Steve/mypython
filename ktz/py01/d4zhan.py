@@ -5,7 +5,10 @@ def input_zhan():
 
 def output_zhan():
     print("sth out zhan:")
-    zhan.pop()
+    if len(zhan) == 0:
+        print("none")
+    else:
+        zhan.pop()
 
 def show_zhan():
     print(zhan)
