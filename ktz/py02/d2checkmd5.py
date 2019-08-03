@@ -13,8 +13,10 @@ def chmd5(file):
             if not data:
                 break
             m.update(data)
-        return m.hexdigest()+"\t%s"%file
+    return m.hexdigest()+"\t%s"%file
 
 if __name__ == '__main__':
     file=sys.argv[1]
     print(chmd5(file))
+
+    # os , sys , hashlib , functools , getpass , subprocess , string , time , datetime , random , shutil ,
