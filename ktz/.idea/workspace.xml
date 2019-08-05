@@ -44,6 +44,7 @@
     <SUITE FILE_PATH="coverage/ktz$d2checkmd5.coverage" NAME="d2checkmd5 Coverage Results" MODIFIED="1564868825983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/ktz$d1jizhang.coverage" NAME="d1jizhang Coverage Results" MODIFIED="1564747412912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/ktz$d3fun1.coverage" NAME="d3fun1 Coverage Results" MODIFIED="1564599416341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py01" />
+    <SUITE FILE_PATH="coverage/ktz$d4pymysql2.coverage" NAME="d4pymysql2 Coverage Results" MODIFIED="1565038155125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/ktz$d2fun1.coverage" NAME="d2fun1 Coverage Results" MODIFIED="1564800534214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/ktz$d2module.coverage" NAME="d2module Coverage Results" MODIFIED="1564806034672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
     <SUITE FILE_PATH="coverage/ktz$d3re1.coverage" NAME="d3re1 Coverage Results" MODIFIED="1564880741588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py02" />
@@ -108,15 +109,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="d4pymysql1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="d4pymysql1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/py02/d4pymysql1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="37" />
               <folding>
-                <marker date="1565036286010" expanded="true" signature="193:274" ph="CREATE TABLE... department" />
-                <marker date="1565036286010" expanded="true" signature="293:491" ph="CREATE TABLE... employees" />
-                <marker date="1565036286010" expanded="true" signature="510:652" ph="CREATE TABLE... salary" />
+                <marker date="1565037201689" expanded="true" signature="440:521" ph="CREATE TABLE... department" />
+                <marker date="1565037201689" expanded="true" signature="540:738" ph="CREATE TABLE... employees" />
+                <marker date="1565037201689" expanded="true" signature="757:899" ph="CREATE TABLE... salary" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="d4pymysql2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py02/d4pymysql2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+              <folding>
+                <marker date="1565038191872" expanded="true" signature="192:228" ph="INSERT INTO department... " />
+                <marker date="1565038191872" expanded="true" signature="407:445" ph="delete from department... " />
+                <marker date="1565038191872" expanded="true" signature="407:447" ph="delete from department... " />
+                <marker date="1565038191872" expanded="true" signature="505:556" ph="UPDATE department... " />
+                <marker date="1565038191872" expanded="true" signature="511:556" ph="update department... " />
+                <marker date="1565038191872" expanded="true" signature="750:774" ph="SELECT * FRO... department" />
+                <marker date="1565038191872" expanded="true" signature="1001:1025" ph="SELECT * FRO... department" />
               </folding>
             </state>
           </provider>
@@ -134,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/py01/d3fun1.py" />
         <option value="$PROJECT_DIR$/py01/d3cp2.py" />
         <option value="$PROJECT_DIR$/py01/d3fun2.py" />
         <option value="$PROJECT_DIR$/py01/star.py" />
@@ -185,6 +203,7 @@
         <option value="$PROJECT_DIR$/py02/d3weblog1.py" />
         <option value="$PROJECT_DIR$/py02/d3weblog2.py" />
         <option value="$PROJECT_DIR$/py02/d4pymysql1.py" />
+        <option value="$PROJECT_DIR$/py02/d4pymysql2.py" />
       </list>
     </option>
   </component>
@@ -196,7 +215,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="316" />
-    <option name="y" value="4" />
+    <option name="y" value="-4" />
     <option name="width" value="1440" />
     <option name="height" value="856" />
   </component>
@@ -233,26 +252,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d4pymysql1">
-    <configuration name="d3re1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ktz" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py02/d3re1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.d4pymysql2">
     <configuration name="d3weblog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,20 +329,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="d4pymysql2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ktz" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py02/d4pymysql2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.d3re1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.d3weblog" />
-      <item index="2" class="java.lang.String" itemvalue="Python.d3weblog1" />
-      <item index="3" class="java.lang.String" itemvalue="Python.d3weblog2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.d4pymysql1" />
+      <item index="0" class="java.lang.String" itemvalue="Python.d3weblog" />
+      <item index="1" class="java.lang.String" itemvalue="Python.d3weblog1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.d3weblog2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.d4pymysql1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.d4pymysql2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.d4pymysql1" />
-        <item index="1" class="java.lang.String" itemvalue="Python.d3weblog2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.d3weblog1" />
-        <item index="3" class="java.lang.String" itemvalue="Python.d3weblog" />
-        <item index="4" class="java.lang.String" itemvalue="Python.d3re1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.d4pymysql2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.d4pymysql1" />
+        <item index="2" class="java.lang.String" itemvalue="Python.d3weblog2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.d3weblog1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.d3weblog" />
       </list>
     </recent_temporary>
   </component>
@@ -363,14 +382,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="4" width="1440" height="856" extended-state="0" />
+    <frame x="316" y="-4" width="1440" height="856" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3823916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3823916" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -401,13 +420,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/py01/d3fun2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/py01/d3fun1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -758,12 +770,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/py02/d4pymysql1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="37" />
           <folding>
-            <marker date="1565036286010" expanded="true" signature="193:274" ph="CREATE TABLE... department" />
-            <marker date="1565036286010" expanded="true" signature="293:491" ph="CREATE TABLE... employees" />
-            <marker date="1565036286010" expanded="true" signature="510:652" ph="CREATE TABLE... salary" />
+            <marker date="1565037201689" expanded="true" signature="440:521" ph="CREATE TABLE... department" />
+            <marker date="1565037201689" expanded="true" signature="540:738" ph="CREATE TABLE... employees" />
+            <marker date="1565037201689" expanded="true" signature="757:899" ph="CREATE TABLE... salary" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py02/d4pymysql2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding>
+            <marker date="1565038191872" expanded="true" signature="192:228" ph="INSERT INTO department... " />
+            <marker date="1565038191872" expanded="true" signature="407:445" ph="delete from department... " />
+            <marker date="1565038191872" expanded="true" signature="407:447" ph="delete from department... " />
+            <marker date="1565038191872" expanded="true" signature="505:556" ph="UPDATE department... " />
+            <marker date="1565038191872" expanded="true" signature="511:556" ph="update department... " />
+            <marker date="1565038191872" expanded="true" signature="750:774" ph="SELECT * FRO... department" />
+            <marker date="1565038191872" expanded="true" signature="1001:1025" ph="SELECT * FRO... department" />
           </folding>
         </state>
       </provider>

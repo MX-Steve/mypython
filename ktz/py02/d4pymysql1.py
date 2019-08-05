@@ -1,3 +1,7 @@
+"chuangjian lianjie , chuangjian youbiao , bianxie sql yuju , shiyong youbiao zhixing sql yuju , tijiao queren , guanbi youbiao , guanbi lianjie "
+#pymysql , os , sys , subprocess , shutil , pickle , functools , getpass , random , string , re ,
+
+
 import pymysql
 
 conn=pymysql.connect(
