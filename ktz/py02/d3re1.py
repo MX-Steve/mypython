@@ -34,3 +34,4 @@ d=cpatt.finditer('seafood is food !')
 # for i in d:
 #     print(i.group())
 
+# pprint , sys , os , getpass , subprocess , random , date , datetime , shutil , re , functools , string , collections , pickle
