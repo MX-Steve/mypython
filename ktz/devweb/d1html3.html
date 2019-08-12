@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>test3</title>
+ </head>
+ <body>
+ <form action="">
+	<select name="course" id="course">
+		<option value="linux">linux</option>
+		<option value="network">network</option>
+	</select>
+	<textarea name="" id="" cols="30" rows="10"></textarea>
+ </form>
+  <hr>
+  <input type="button" value="执行函数" onclick="a()">
+  <form action="http://www.kuaidi100.com/query" target="_blank">
+	<label>运单号</label><input type="text" name="postid"><br>
+	<label><input type="radio" name='type' value='shentong' >申通</label>
+	<label><input type="radio" name='type' value='zhongtong' >中通</label>
+	<label><input type="radio" name='type' value='youzheng' >邮政</label>
+	<input type="submit" value="查询">
+  </form>
+  <form action="">
+	<input type="radio" name='lesson'>linux基础 
+	<input type="radio" name='lesson'><label>network</label>
+	<input type="radio" name=""><label for="python">python</label>lesson
+  </form>
+  <form action="">
+	<input type="checkbox">linux基础
+	<input type="checkbox"><label>network</label>
+	<input type="checkbox"><label for="py">python</label>
+  </form>
+  <form action="">
+	username: <input type="text" placeholder="username">
+	password: <input type="password" placeholder="passwd">
+	<input type="submit" value="登录">
+  </form>
+  <form action="http://www.baidu.com/s">
+	<input type="text" name='wd'>
+	<input type="submit" value="百度搜索">
+  </form>
+  <form action="http://cn.bing.com/search">
+	<input type="text" name='q'>
+	<input type="submit" value="必应搜索">
+  </form>
+  <form action="http://www.sogou.com/web" target="_black">
+	<input type="text" name="query">
+	<input type="submit" value='搜狗搜索'>
+  </form>
+  <script>
+	function a(){
+		username=prompt("请输入用户名：");
+		alter("welcome " + username)
+	}
+  </script>
+ </body>
+</html>
