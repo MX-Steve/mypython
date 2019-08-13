@@ -1,0 +1,53 @@
+h1 {
+	/* background: rgb(255,0,0); */
+	background: #8814aa;
+}
+
+a {
+	color: red;
+}
+a:hover {
+	color: blue;
+}
+a:visited {
+	color: darkgray;
+}
+.box {
+	margin: 20px;
+	padding: 50px;
+	height: 300px;
+	width: 300px;
+	border: 1px solid black;
+}
+
+.container{
+	width: 1000px;
+	margin: 0 auto;
+}
+.banner,.footer{
+	height: 100px;
+	background: blue;
+}
+.main{
+	height: 500px;
+	background: #050;
+}
+.main .left {
+	float: left;
+	width: 100px;
+	height: 300px;
+	background: lightgray;
+}
+.main .left li {
+	list-style: none;
+
+}
+.main .right{
+	font-size: 18px;
+	font-style:italic;
+	font-weight:bold;
+	margin-left:100px;
+	width: 900px;
+	height: 300px;
+	background: lightgreen;
+}
