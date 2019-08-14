@@ -25,7 +25,8 @@ SECRET_KEY = 'gwt7s^z@$8k)#88n^5k_4%anb^wqduw@5%7v%7-9^d&kljjpmw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# allow all hosts
+ALLOWED_HOSTS = '*'
 
 
 # Application definition
@@ -76,8 +77,12 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'ktzdj',
+        'USER': 'root',
+        'PASSWORD': 'Lihan910517',
+        'HOST': '192.168.4.14',
+        'PORT': '3306',
     }
 }
 
@@ -104,9 +109,9 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/1.11/topics/i18n/
 
-LANGUAGE_CODE = 'en-us'
+LANGUAGE_CODE = 'zh-hans'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Shanghai'
 
 USE_I18N = True
 
