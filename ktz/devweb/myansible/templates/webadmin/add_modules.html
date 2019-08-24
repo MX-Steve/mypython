@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    add modules
+{% endblock %}
+
+{% block content %}
+    <form action="" class="form-inline h4" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            <label>module:</label>
+            <input type="text" class="form-control" name="module">
+        </div>
+        <div class="form-group">
+            <label>param:</label>
+            <input type="text" class="form-control" name="param">
+        </div>
+        <div class="form-group"><input type="submit" class="btn btn-primary" value="submit"></div>
+    </form>
+    <table class="table table-bordered table-striped table-hover h4">
+        <thead class="bg-primary text-center">
+        <tr>
+            <td>module</td>
+            <td>param</td>
+        </tr>
+        </thead>
+        {% for module in modules %}
+            <tr>
+                <td>{{ module.modulename }}</td>
+                <td>
+                    <ul class="list-unstyled">
+                        {% for args in module.args_set.all %}
+                            <li>
+                                <div class="col-sm-9">{{ args.args_text }}</div>
+                                <div class="col-sm-3"><a href="{% url 'del_args' args.id %}">delete</a></div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}
+

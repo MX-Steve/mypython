@@ -7,25 +7,25 @@
 {% block content %}
     <div class="row h4">
             <div class="col-sm-3">
-                <a href="#">
+                <a href="{% url 'webadmin_index' %}" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}" width="150px" alt=""><br>
                     host information
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#">
+                <a href="{% url 'wadd_hosts' %}" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}" width="150px" alt=""><br>
                     host added
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#">
+                <a href="{% url 'add_modules' %}" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}" width="150px" alt=""><br>
                     module added
                 </a>
             </div>
             <div class="col-sm-3">
-                <a href="#">
+                <a href="{% url 'tasks' %}" target="_blank">
                     <img src="{% static 'imgs/linux.jpg' %}" width="150px" alt=""><br>
                     run something
                 </a>

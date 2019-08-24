@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    add hosts
+{% endblock %}
+
+{% block content %}
+    <form action="" class="form-inline h4" method="post">
+        {% csrf_token %}
+        <div class="form-group">
+            <label>host groups:</label>
+            <input type="text" class="form-control" name="group">
+        </div>
+        <div class="form-group">
+            <label>host name:</label>
+            <input type="text" class="form-control" name="hostname">
+        </div>
+        <div class="form-group">
+            <label>host ip:</label>
+            <input type="text" class="form-control" name="ip">
+        </div>
+        <div class="form-group"><input type="submit" class="btn btn-primary" value="submit"></div>
+    </form>
+    <table class="table table-bordered table-striped table-hover h4">
+        <thead class="bg-primary text-center">
+        <tr>
+            <td>host group</td>
+            <td>host name</td>
+        </tr>
+        </thead>
+        {% for group in groups %}
+            <tr>
+                <td>{{ group.groupname }}</td>
+                <td>
+                    <ul class="list-unstyled">
+                        {% for host in group.host_set.all %}
+                            <li>{{ host.hostname }}: {{ host.ipaddr }}</li>
+                        {% endfor %}
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock %}
+
